@@ -1,0 +1,5002 @@
+[{
+		"id": "1e34447f-82f8-4f33-bc6c-3c372f89413b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-01T20:00:00.000Z",
+		"clock_out": "2018-05-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-02T04:00:00.000Z",
+		"created_at": "2018-05-01T20:00:00.000Z"
+	}, {
+		"id": "2c2e8237-47d8-4919-ab6f-ba4c982b537b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-02T20:00:00.000Z",
+		"clock_out": "2018-05-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-03T04:00:00.000Z",
+		"created_at": "2018-05-02T20:00:00.000Z"
+	}, {
+		"id": "cdb37a7a-05ec-43d8-910c-e476fc199803",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-03T20:00:00.000Z",
+		"clock_out": "2018-05-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-04T04:00:00.000Z",
+		"created_at": "2018-05-03T20:00:00.000Z"
+	}, {
+		"id": "173f64f8-d890-4f3a-a8f2-72b6bd9d3b20",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-04T20:00:00.000Z",
+		"clock_out": "2018-05-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-05T04:00:00.000Z",
+		"created_at": "2018-05-04T20:00:00.000Z"
+	}, {
+		"id": "8af1fa60-d6fa-4605-b22a-6845addc075f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-05T20:00:00.000Z",
+		"clock_out": "2018-05-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-06T04:00:00.000Z",
+		"created_at": "2018-05-05T20:00:00.000Z"
+	}, {
+		"id": "f62afbb0-533e-46ff-aff5-9115c16f3d32",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-06T20:00:00.000Z",
+		"clock_out": "2018-05-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-07T04:00:00.000Z",
+		"created_at": "2018-05-06T20:00:00.000Z"
+	}, {
+		"id": "4b917f5d-ca7a-4553-9807-224b4f9d2e6d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-07T20:00:00.000Z",
+		"clock_out": "2018-05-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-08T04:00:00.000Z",
+		"created_at": "2018-05-07T20:00:00.000Z"
+	}, {
+		"id": "2297ef44-becd-4948-b948-ae42ef6b2116",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-08T20:00:00.000Z",
+		"clock_out": "2018-05-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-09T04:00:00.000Z",
+		"created_at": "2018-05-08T20:00:00.000Z"
+	}, {
+		"id": "505fc1ba-126e-4a56-ac1a-fb64638293ce",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-09T20:00:00.000Z",
+		"clock_out": "2018-05-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-10T04:00:00.000Z",
+		"created_at": "2018-05-09T20:00:00.000Z"
+	}, {
+		"id": "91638b73-2e12-4d9c-b664-630b4b80545b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-10T20:00:00.000Z",
+		"clock_out": "2018-05-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-11T04:00:00.000Z",
+		"created_at": "2018-05-10T20:00:00.000Z"
+	}, {
+		"id": "952e4a59-398c-4ebd-951b-23b753d4f078",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-11T20:00:00.000Z",
+		"clock_out": "2018-05-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-12T04:00:00.000Z",
+		"created_at": "2018-05-11T20:00:00.000Z"
+	}, {
+		"id": "22dd1443-1838-49e8-ba2b-11e64ff08c2f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-12T20:00:00.000Z",
+		"clock_out": "2018-05-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-13T04:00:00.000Z",
+		"created_at": "2018-05-12T20:00:00.000Z"
+	}, {
+		"id": "1ef4d8a5-ea06-4eea-8417-e85fbfe20e2e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-13T20:00:00.000Z",
+		"clock_out": "2018-05-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-14T04:00:00.000Z",
+		"created_at": "2018-05-13T20:00:00.000Z"
+	}, {
+		"id": "5e3857b1-1e58-4da4-93dd-b1cf4c8bed39",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-14T20:00:00.000Z",
+		"clock_out": "2018-05-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-15T04:00:00.000Z",
+		"created_at": "2018-05-14T20:00:00.000Z"
+	}, {
+		"id": "999564a8-f183-4076-b409-a5b11a0c582e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-15T20:00:00.000Z",
+		"clock_out": "2018-05-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-16T04:00:00.000Z",
+		"created_at": "2018-05-15T20:00:00.000Z"
+	}, {
+		"id": "632501b3-eba0-417c-aecd-d828a68b858b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-16T20:00:00.000Z",
+		"clock_out": "2018-05-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-17T04:00:00.000Z",
+		"created_at": "2018-05-16T20:00:00.000Z"
+	}, {
+		"id": "f765cd0c-bc6a-45a2-bde1-f0544390f031",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-17T20:00:00.000Z",
+		"clock_out": "2018-05-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-18T04:00:00.000Z",
+		"created_at": "2018-05-17T20:00:00.000Z"
+	}, {
+		"id": "00b295f9-0dfa-452e-9cb0-8b2ba422c4a1",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-18T20:00:00.000Z",
+		"clock_out": "2018-05-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-19T04:00:00.000Z",
+		"created_at": "2018-05-18T20:00:00.000Z"
+	}, {
+		"id": "9ce2d1ed-7447-4ade-833b-567d9a0147ab",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-19T20:00:00.000Z",
+		"clock_out": "2018-05-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-20T04:00:00.000Z",
+		"created_at": "2018-05-19T20:00:00.000Z"
+	}, {
+		"id": "49e134a2-51eb-4aec-9258-523792102b87",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-20T20:00:00.000Z",
+		"clock_out": "2018-05-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-21T04:00:00.000Z",
+		"created_at": "2018-05-20T20:00:00.000Z"
+	}, {
+		"id": "e37f8879-7846-4a96-ab67-6661ecce51b0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-21T20:00:00.000Z",
+		"clock_out": "2018-05-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-22T04:00:00.000Z",
+		"created_at": "2018-05-21T20:00:00.000Z"
+	}, {
+		"id": "e6617c00-c015-43c2-9173-78b0088bf6ca",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-22T20:00:00.000Z",
+		"clock_out": "2018-05-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-23T04:00:00.000Z",
+		"created_at": "2018-05-22T20:00:00.000Z"
+	}, {
+		"id": "c6b6ed85-5916-4edc-93c9-d969ca610462",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-23T20:00:00.000Z",
+		"clock_out": "2018-05-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-24T04:00:00.000Z",
+		"created_at": "2018-05-23T20:00:00.000Z"
+	}, {
+		"id": "a4eb3bb1-11b8-43d0-bf87-830b32c88246",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-24T20:00:00.000Z",
+		"clock_out": "2018-05-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-25T04:00:00.000Z",
+		"created_at": "2018-05-24T20:00:00.000Z"
+	}, {
+		"id": "3f5c7475-1c5a-4858-bf35-c31f71b8b499",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-25T20:00:00.000Z",
+		"clock_out": "2018-05-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-26T04:00:00.000Z",
+		"created_at": "2018-05-25T20:00:00.000Z"
+	}, {
+		"id": "0c8f1564-b66f-4dd6-94b1-0e318f714515",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-26T20:00:00.000Z",
+		"clock_out": "2018-05-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-27T04:00:00.000Z",
+		"created_at": "2018-05-26T20:00:00.000Z"
+	}, {
+		"id": "f72715cd-f039-432a-9ed0-261b4d640119",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-27T20:00:00.000Z",
+		"clock_out": "2018-05-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-28T04:00:00.000Z",
+		"created_at": "2018-05-27T20:00:00.000Z"
+	}, {
+		"id": "262b5643-941a-4d51-8d5c-c63d6b909dc0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-28T20:00:00.000Z",
+		"clock_out": "2018-05-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-29T04:00:00.000Z",
+		"created_at": "2018-05-28T20:00:00.000Z"
+	}, {
+		"id": "38edfd83-f1d2-4c7d-87d0-2d5fd35effb1",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-29T20:00:00.000Z",
+		"clock_out": "2018-05-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-30T04:00:00.000Z",
+		"created_at": "2018-05-29T20:00:00.000Z"
+	}, {
+		"id": "76ee3f2a-01ba-490f-939e-3f2019c51ace",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-30T20:00:00.000Z",
+		"clock_out": "2018-05-31T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-31T04:00:00.000Z",
+		"created_at": "2018-05-30T20:00:00.000Z"
+	}, {
+		"id": "eab2e95b-791a-4228-bcbc-4a98243d40d9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-05-31T20:00:00.000Z",
+		"clock_out": "2018-06-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-01T04:00:00.000Z",
+		"created_at": "2018-05-31T20:00:00.000Z"
+	}, {
+		"id": "d229e912-a211-4add-ba60-1e12269b1a9b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-01T20:00:00.000Z",
+		"clock_out": "2018-06-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-02T04:00:00.000Z",
+		"created_at": "2018-06-01T20:00:00.000Z"
+	}, {
+		"id": "92218478-0942-4466-8177-8deb7e59856e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-02T20:00:00.000Z",
+		"clock_out": "2018-06-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-03T04:00:00.000Z",
+		"created_at": "2018-06-02T20:00:00.000Z"
+	}, {
+		"id": "b616cbb2-d4cf-4da6-9972-9b76a3495051",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-03T20:00:00.000Z",
+		"clock_out": "2018-06-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-04T04:00:00.000Z",
+		"created_at": "2018-06-03T20:00:00.000Z"
+	}, {
+		"id": "920106e7-5083-49d3-92f2-ebd2bada0d4e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-04T20:00:00.000Z",
+		"clock_out": "2018-06-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-05T04:00:00.000Z",
+		"created_at": "2018-06-04T20:00:00.000Z"
+	}, {
+		"id": "126bb6fd-19b9-41ad-a9a5-a032e6980cda",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-05T20:00:00.000Z",
+		"clock_out": "2018-06-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-06T04:00:00.000Z",
+		"created_at": "2018-06-05T20:00:00.000Z"
+	}, {
+		"id": "f87ddb10-9844-4719-b5b3-2ec918df21bb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-06T20:00:00.000Z",
+		"clock_out": "2018-06-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-07T04:00:00.000Z",
+		"created_at": "2018-06-06T20:00:00.000Z"
+	}, {
+		"id": "4fba310f-8793-423e-ae60-7cf70b258dea",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-07T20:00:00.000Z",
+		"clock_out": "2018-06-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-08T04:00:00.000Z",
+		"created_at": "2018-06-07T20:00:00.000Z"
+	}, {
+		"id": "e0139238-87be-47c6-a938-fa31e35dc97f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-08T20:00:00.000Z",
+		"clock_out": "2018-06-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-09T04:00:00.000Z",
+		"created_at": "2018-06-08T20:00:00.000Z"
+	}, {
+		"id": "b60bc2a3-c98d-40d4-a3ee-f6fa8304bbc5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-09T20:00:00.000Z",
+		"clock_out": "2018-06-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-10T04:00:00.000Z",
+		"created_at": "2018-06-09T20:00:00.000Z"
+	}, {
+		"id": "60c10719-220f-4e12-9dfb-472ea219c343",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-10T20:00:00.000Z",
+		"clock_out": "2018-06-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-11T04:00:00.000Z",
+		"created_at": "2018-06-10T20:00:00.000Z"
+	}, {
+		"id": "6f2e69b4-b6a1-435d-8223-25b93b8f785f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-11T20:00:00.000Z",
+		"clock_out": "2018-06-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-12T04:00:00.000Z",
+		"created_at": "2018-06-11T20:00:00.000Z"
+	}, {
+		"id": "1cae6b86-95db-4f89-9b14-66bc0482da2e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-12T20:00:00.000Z",
+		"clock_out": "2018-06-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-13T04:00:00.000Z",
+		"created_at": "2018-06-12T20:00:00.000Z"
+	}, {
+		"id": "48978efa-c452-4c50-a6cc-97867ab03700",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-13T20:00:00.000Z",
+		"clock_out": "2018-06-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-14T04:00:00.000Z",
+		"created_at": "2018-06-13T20:00:00.000Z"
+	}, {
+		"id": "9ebad66d-b5c0-491b-8556-ba4f875d089a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-14T20:00:00.000Z",
+		"clock_out": "2018-06-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-15T04:00:00.000Z",
+		"created_at": "2018-06-14T20:00:00.000Z"
+	}, {
+		"id": "c63312be-b2cc-40f6-a2a6-3ec1354dfd83",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-15T20:00:00.000Z",
+		"clock_out": "2018-06-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-16T04:00:00.000Z",
+		"created_at": "2018-06-15T20:00:00.000Z"
+	}, {
+		"id": "e979023f-7bb3-4fa0-a59b-b8be795aaecb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-16T20:00:00.000Z",
+		"clock_out": "2018-06-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-17T04:00:00.000Z",
+		"created_at": "2018-06-16T20:00:00.000Z"
+	}, {
+		"id": "7d255a93-e828-489f-ba4f-dc5c3298b77f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-17T20:00:00.000Z",
+		"clock_out": "2018-06-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-18T04:00:00.000Z",
+		"created_at": "2018-06-17T20:00:00.000Z"
+	}, {
+		"id": "31c383b9-2ab3-4ff7-879e-24fafc489c8a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-18T20:00:00.000Z",
+		"clock_out": "2018-06-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-19T04:00:00.000Z",
+		"created_at": "2018-06-18T20:00:00.000Z"
+	}, {
+		"id": "92cff4c5-0985-4d67-b0a9-c15000378529",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-19T20:00:00.000Z",
+		"clock_out": "2018-06-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-20T04:00:00.000Z",
+		"created_at": "2018-06-19T20:00:00.000Z"
+	}, {
+		"id": "5ae70c25-1b25-4ebe-90ba-3e527126793d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-20T20:00:00.000Z",
+		"clock_out": "2018-06-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-21T04:00:00.000Z",
+		"created_at": "2018-06-20T20:00:00.000Z"
+	}, {
+		"id": "c23f6bbd-3c63-41e9-91e0-2ea8bb0c9bd3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-21T20:00:00.000Z",
+		"clock_out": "2018-06-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-22T04:00:00.000Z",
+		"created_at": "2018-06-21T20:00:00.000Z"
+	}, {
+		"id": "05d163d7-8b3a-40a0-8fd5-0ba57bece1aa",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-22T20:00:00.000Z",
+		"clock_out": "2018-06-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-23T04:00:00.000Z",
+		"created_at": "2018-06-22T20:00:00.000Z"
+	}, {
+		"id": "99fb1a79-d725-4de4-a269-a953d353a081",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-23T20:00:00.000Z",
+		"clock_out": "2018-06-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-24T04:00:00.000Z",
+		"created_at": "2018-06-23T20:00:00.000Z"
+	}, {
+		"id": "7c33f454-d9f4-47b1-85cc-7a3168e208d8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-24T20:00:00.000Z",
+		"clock_out": "2018-06-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-25T04:00:00.000Z",
+		"created_at": "2018-06-24T20:00:00.000Z"
+	}, {
+		"id": "1ab1314c-2a71-484a-8ad9-0721e44ec750",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-25T20:00:00.000Z",
+		"clock_out": "2018-06-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-26T04:00:00.000Z",
+		"created_at": "2018-06-25T20:00:00.000Z"
+	}, {
+		"id": "6322feab-b47f-4e2f-bb0d-ec780555113e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-26T20:00:00.000Z",
+		"clock_out": "2018-06-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-27T04:00:00.000Z",
+		"created_at": "2018-06-26T20:00:00.000Z"
+	}, {
+		"id": "d54b6537-ae49-4649-8879-2c8e9482c32f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-27T20:00:00.000Z",
+		"clock_out": "2018-06-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-28T04:00:00.000Z",
+		"created_at": "2018-06-27T20:00:00.000Z"
+	}, {
+		"id": "d76ec0d4-4a43-4ab5-a336-922552d33c48",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-28T20:00:00.000Z",
+		"clock_out": "2018-06-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-29T04:00:00.000Z",
+		"created_at": "2018-06-28T20:00:00.000Z"
+	}, {
+		"id": "9c87dd68-9dc0-4c70-b1f1-1f516057ee4f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-29T20:00:00.000Z",
+		"clock_out": "2018-06-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-30T04:00:00.000Z",
+		"created_at": "2018-06-29T20:00:00.000Z"
+	}, {
+		"id": "770daefd-e68a-4d1c-b9ae-1f08be1c4bcc",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-06-30T20:00:00.000Z",
+		"clock_out": "2018-07-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-01T04:00:00.000Z",
+		"created_at": "2018-06-30T20:00:00.000Z"
+	}, {
+		"id": "7a7c86b1-2740-4b56-8c6b-30613d6d1eb4",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-01T20:00:00.000Z",
+		"clock_out": "2018-07-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-02T04:00:00.000Z",
+		"created_at": "2018-07-01T20:00:00.000Z"
+	}, {
+		"id": "80c5b320-7324-432e-9f3c-efc83fac28a6",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-02T20:00:00.000Z",
+		"clock_out": "2018-07-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-03T04:00:00.000Z",
+		"created_at": "2018-07-02T20:00:00.000Z"
+	}, {
+		"id": "452e1df2-5fef-4d51-b01d-4ac5eff794af",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-03T20:00:00.000Z",
+		"clock_out": "2018-07-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-04T04:00:00.000Z",
+		"created_at": "2018-07-03T20:00:00.000Z"
+	}, {
+		"id": "4fd6b706-103d-4d1a-a4f0-ec44b6f43c85",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-04T20:00:00.000Z",
+		"clock_out": "2018-07-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-05T04:00:00.000Z",
+		"created_at": "2018-07-04T20:00:00.000Z"
+	}, {
+		"id": "a2a64137-4767-41d3-9dc6-61575915906c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-05T20:00:00.000Z",
+		"clock_out": "2018-07-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-06T04:00:00.000Z",
+		"created_at": "2018-07-05T20:00:00.000Z"
+	}, {
+		"id": "8830f4d5-f50e-498c-85dd-fbea659c1207",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-06T20:00:00.000Z",
+		"clock_out": "2018-07-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-07T04:00:00.000Z",
+		"created_at": "2018-07-06T20:00:00.000Z"
+	}, {
+		"id": "75ed03f4-b2c4-4bfd-8b5f-103511b2c400",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-07T20:00:00.000Z",
+		"clock_out": "2018-07-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-08T04:00:00.000Z",
+		"created_at": "2018-07-07T20:00:00.000Z"
+	}, {
+		"id": "d3a16a92-92b8-4e63-b623-9e768039680b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-08T20:00:00.000Z",
+		"clock_out": "2018-07-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-09T04:00:00.000Z",
+		"created_at": "2018-07-08T20:00:00.000Z"
+	}, {
+		"id": "4019dfbd-0a5d-40f9-b5cc-68319ff61068",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-09T20:00:00.000Z",
+		"clock_out": "2018-07-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-10T04:00:00.000Z",
+		"created_at": "2018-07-09T20:00:00.000Z"
+	}, {
+		"id": "911226bd-86b9-4cf4-80b3-567262f42f3b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-10T20:00:00.000Z",
+		"clock_out": "2018-07-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-11T04:00:00.000Z",
+		"created_at": "2018-07-10T20:00:00.000Z"
+	}, {
+		"id": "e1d1e761-a590-4709-a439-74698fd8c61d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-11T20:00:00.000Z",
+		"clock_out": "2018-07-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-12T04:00:00.000Z",
+		"created_at": "2018-07-11T20:00:00.000Z"
+	}, {
+		"id": "95185c77-cf4b-4f89-823d-781e153be3e9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-12T20:00:00.000Z",
+		"clock_out": "2018-07-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-13T04:00:00.000Z",
+		"created_at": "2018-07-12T20:00:00.000Z"
+	}, {
+		"id": "921595a9-4068-4ae8-a267-2f6c8a209e22",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-13T20:00:00.000Z",
+		"clock_out": "2018-07-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-14T04:00:00.000Z",
+		"created_at": "2018-07-13T20:00:00.000Z"
+	}, {
+		"id": "c55dafc7-0d58-4e0e-a8b1-7fdf7822d1bc",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-14T20:00:00.000Z",
+		"clock_out": "2018-07-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-15T04:00:00.000Z",
+		"created_at": "2018-07-14T20:00:00.000Z"
+	}, {
+		"id": "89720ef7-231d-4bb7-86aa-d371b9eb56cb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-15T20:00:00.000Z",
+		"clock_out": "2018-07-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-16T04:00:00.000Z",
+		"created_at": "2018-07-15T20:00:00.000Z"
+	}, {
+		"id": "d066f7e6-2d36-4604-aae6-8d2ffb6fd713",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-16T20:00:00.000Z",
+		"clock_out": "2018-07-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-17T04:00:00.000Z",
+		"created_at": "2018-07-16T20:00:00.000Z"
+	}, {
+		"id": "a73a2b98-6f56-458b-909e-0f817a03153e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-17T20:00:00.000Z",
+		"clock_out": "2018-07-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-18T04:00:00.000Z",
+		"created_at": "2018-07-17T20:00:00.000Z"
+	}, {
+		"id": "5d203e8b-8e31-479c-bbd5-f6000b590740",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-18T20:00:00.000Z",
+		"clock_out": "2018-07-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-19T04:00:00.000Z",
+		"created_at": "2018-07-18T20:00:00.000Z"
+	}, {
+		"id": "3d746645-ffae-48f3-b17e-cfe8720ff057",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-19T20:00:00.000Z",
+		"clock_out": "2018-07-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-20T04:00:00.000Z",
+		"created_at": "2018-07-19T20:00:00.000Z"
+	}, {
+		"id": "cc67961b-5540-4ad9-b2ab-6730bba3a90c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-20T20:00:00.000Z",
+		"clock_out": "2018-07-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-21T04:00:00.000Z",
+		"created_at": "2018-07-20T20:00:00.000Z"
+	}, {
+		"id": "6c1634be-2fe8-4915-9bd8-93cbca4444e8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-21T20:00:00.000Z",
+		"clock_out": "2018-07-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-22T04:00:00.000Z",
+		"created_at": "2018-07-21T20:00:00.000Z"
+	}, {
+		"id": "c3998a84-0919-461c-a0f2-04a632103f8f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-22T20:00:00.000Z",
+		"clock_out": "2018-07-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-23T04:00:00.000Z",
+		"created_at": "2018-07-22T20:00:00.000Z"
+	}, {
+		"id": "164f22bb-9aa5-4d39-a8f2-b237c1442b2a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-23T20:00:00.000Z",
+		"clock_out": "2018-07-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-24T04:00:00.000Z",
+		"created_at": "2018-07-23T20:00:00.000Z"
+	}, {
+		"id": "26e10fde-1058-4f98-8828-78f952cac027",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-24T20:00:00.000Z",
+		"clock_out": "2018-07-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-25T04:00:00.000Z",
+		"created_at": "2018-07-24T20:00:00.000Z"
+	}, {
+		"id": "d151a8e3-f6da-4d5e-964b-3bfcbba1b769",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-25T20:00:00.000Z",
+		"clock_out": "2018-07-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-26T04:00:00.000Z",
+		"created_at": "2018-07-25T20:00:00.000Z"
+	}, {
+		"id": "4e053345-13df-425f-aabd-7d857026ead2",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-26T20:00:00.000Z",
+		"clock_out": "2018-07-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-27T04:00:00.000Z",
+		"created_at": "2018-07-26T20:00:00.000Z"
+	}, {
+		"id": "00f4e84e-1467-4d7f-bfda-cf0cf9f1da48",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-27T20:00:00.000Z",
+		"clock_out": "2018-07-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-28T04:00:00.000Z",
+		"created_at": "2018-07-27T20:00:00.000Z"
+	}, {
+		"id": "99c2bbe6-7134-4d44-860a-8c903f22b312",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-28T20:00:00.000Z",
+		"clock_out": "2018-07-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-29T04:00:00.000Z",
+		"created_at": "2018-07-28T20:00:00.000Z"
+	}, {
+		"id": "97eee286-882b-4aa0-9c5f-1746fcd57a06",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-29T20:00:00.000Z",
+		"clock_out": "2018-07-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-30T04:00:00.000Z",
+		"created_at": "2018-07-29T20:00:00.000Z"
+	}, {
+		"id": "ea937722-a62a-4ae5-bd34-888c1fc93b23",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-30T20:00:00.000Z",
+		"clock_out": "2018-07-31T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-31T04:00:00.000Z",
+		"created_at": "2018-07-30T20:00:00.000Z"
+	}, {
+		"id": "12c43657-45d3-457d-a803-88aed677d081",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "907b4fac-306f-4e4a-b957-1aaaaa8d9995",
+		"name": "Jessica Burrey",
+		"clock_in": "2018-07-31T20:00:00.000Z",
+		"clock_out": "2018-08-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-08-01T04:00:00.000Z",
+		"created_at": "2018-07-31T20:00:00.000Z"
+	}, {
+		"id": "057ecdd5-b6ba-4bc8-bf71-327233d848f5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-01T21:00:00.000Z",
+		"clock_out": "2018-05-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-02T04:00:00.000Z",
+		"created_at": "2018-05-01T21:00:00.000Z"
+	}, {
+		"id": "2e5f7dfc-cb90-4815-a415-a4cbf873a8c2",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-02T21:00:00.000Z",
+		"clock_out": "2018-05-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-03T04:00:00.000Z",
+		"created_at": "2018-05-02T21:00:00.000Z"
+	}, {
+		"id": "050744bc-8cbd-495f-b334-a0772b8176ac",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-03T21:00:00.000Z",
+		"clock_out": "2018-05-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-04T04:00:00.000Z",
+		"created_at": "2018-05-03T21:00:00.000Z"
+	}, {
+		"id": "b49310ea-6eab-42b8-8cd4-b846aeabf7f4",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-04T21:00:00.000Z",
+		"clock_out": "2018-05-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-05T04:00:00.000Z",
+		"created_at": "2018-05-04T21:00:00.000Z"
+	}, {
+		"id": "8ebcbd06-833e-4f68-ae9a-e404feefc297",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-05T21:00:00.000Z",
+		"clock_out": "2018-05-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-06T04:00:00.000Z",
+		"created_at": "2018-05-05T21:00:00.000Z"
+	}, {
+		"id": "3c553c00-c633-4b91-b244-19c5dbda902c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-06T21:00:00.000Z",
+		"clock_out": "2018-05-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-07T04:00:00.000Z",
+		"created_at": "2018-05-06T21:00:00.000Z"
+	}, {
+		"id": "0a28ef5b-c66d-403e-ba2b-ea6ce7946a36",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-07T21:00:00.000Z",
+		"clock_out": "2018-05-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-08T04:00:00.000Z",
+		"created_at": "2018-05-07T21:00:00.000Z"
+	}, {
+		"id": "f7cc8a4a-caa8-421c-bb16-d2328054d33d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-08T21:00:00.000Z",
+		"clock_out": "2018-05-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-09T04:00:00.000Z",
+		"created_at": "2018-05-08T21:00:00.000Z"
+	}, {
+		"id": "b7b0e8ce-ec15-4cd0-9a7a-0c05003e4470",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-09T21:00:00.000Z",
+		"clock_out": "2018-05-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-10T04:00:00.000Z",
+		"created_at": "2018-05-09T21:00:00.000Z"
+	}, {
+		"id": "af6a4b8a-d90d-4b0c-97d3-b0548982fce8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-10T21:00:00.000Z",
+		"clock_out": "2018-05-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-11T04:00:00.000Z",
+		"created_at": "2018-05-10T21:00:00.000Z"
+	}, {
+		"id": "25f4415a-8cb1-4a9e-ac94-89b402e67e1c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-11T21:00:00.000Z",
+		"clock_out": "2018-05-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-12T04:00:00.000Z",
+		"created_at": "2018-05-11T21:00:00.000Z"
+	}, {
+		"id": "d36572bb-5bc3-48c7-aa9a-7b4a3ab73f60",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-12T21:00:00.000Z",
+		"clock_out": "2018-05-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-13T04:00:00.000Z",
+		"created_at": "2018-05-12T21:00:00.000Z"
+	}, {
+		"id": "eae05f33-0f2a-47c6-a5cd-03769ebb12bb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-13T21:00:00.000Z",
+		"clock_out": "2018-05-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-14T04:00:00.000Z",
+		"created_at": "2018-05-13T21:00:00.000Z"
+	}, {
+		"id": "8b31a0b8-208c-4240-bbd0-5a291ea7ad19",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-14T21:00:00.000Z",
+		"clock_out": "2018-05-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-15T04:00:00.000Z",
+		"created_at": "2018-05-14T21:00:00.000Z"
+	}, {
+		"id": "d6b431a1-07d7-4e3f-b3d1-271a7dca236b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-15T21:00:00.000Z",
+		"clock_out": "2018-05-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-16T04:00:00.000Z",
+		"created_at": "2018-05-15T21:00:00.000Z"
+	}, {
+		"id": "d4f72f36-bfee-4eb4-a8e9-287a0f105214",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-16T21:00:00.000Z",
+		"clock_out": "2018-05-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-17T04:00:00.000Z",
+		"created_at": "2018-05-16T21:00:00.000Z"
+	}, {
+		"id": "d7a3fe5e-1729-4ece-aef6-fb7bbc372ae4",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-17T21:00:00.000Z",
+		"clock_out": "2018-05-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-18T04:00:00.000Z",
+		"created_at": "2018-05-17T21:00:00.000Z"
+	}, {
+		"id": "06421390-d4a9-4b60-b4ad-d2e3345e38bc",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-18T21:00:00.000Z",
+		"clock_out": "2018-05-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-19T04:00:00.000Z",
+		"created_at": "2018-05-18T21:00:00.000Z"
+	}, {
+		"id": "78bf27d9-13e5-428f-9743-8312d9f1aabb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-19T21:00:00.000Z",
+		"clock_out": "2018-05-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-20T04:00:00.000Z",
+		"created_at": "2018-05-19T21:00:00.000Z"
+	}, {
+		"id": "751a9743-1810-4da0-bee5-cd6bca2a61e9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-20T21:00:00.000Z",
+		"clock_out": "2018-05-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-21T04:00:00.000Z",
+		"created_at": "2018-05-20T21:00:00.000Z"
+	}, {
+		"id": "517ea68a-fa6f-47af-b24c-520537da6e5d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-21T21:00:00.000Z",
+		"clock_out": "2018-05-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-22T04:00:00.000Z",
+		"created_at": "2018-05-21T21:00:00.000Z"
+	}, {
+		"id": "1070412f-c626-460c-a883-da892ac47b51",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-22T21:00:00.000Z",
+		"clock_out": "2018-05-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-23T04:00:00.000Z",
+		"created_at": "2018-05-22T21:00:00.000Z"
+	}, {
+		"id": "f0db9810-1662-4eaa-8a82-6034d017f5e9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-23T21:00:00.000Z",
+		"clock_out": "2018-05-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-24T04:00:00.000Z",
+		"created_at": "2018-05-23T21:00:00.000Z"
+	}, {
+		"id": "c5d0d0f9-a374-4a5c-94da-0b5784edcff1",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-24T21:00:00.000Z",
+		"clock_out": "2018-05-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-25T04:00:00.000Z",
+		"created_at": "2018-05-24T21:00:00.000Z"
+	}, {
+		"id": "7f6e3f9e-baa9-4c61-946e-9c8d41eb0bcb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-25T21:00:00.000Z",
+		"clock_out": "2018-05-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-26T04:00:00.000Z",
+		"created_at": "2018-05-25T21:00:00.000Z"
+	}, {
+		"id": "f2fa220b-aee2-4fe2-aef8-57b04cb531d0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-26T21:00:00.000Z",
+		"clock_out": "2018-05-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-27T04:00:00.000Z",
+		"created_at": "2018-05-26T21:00:00.000Z"
+	}, {
+		"id": "73300bcd-bf87-457a-8d63-1edc1aaa0435",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-27T21:00:00.000Z",
+		"clock_out": "2018-05-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-28T04:00:00.000Z",
+		"created_at": "2018-05-27T21:00:00.000Z"
+	}, {
+		"id": "1306972d-85bd-4214-91ef-07da36743ede",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-28T21:00:00.000Z",
+		"clock_out": "2018-05-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-29T04:00:00.000Z",
+		"created_at": "2018-05-28T21:00:00.000Z"
+	}, {
+		"id": "7b0b960c-2655-4d66-ba69-242d4fa6960d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-29T21:00:00.000Z",
+		"clock_out": "2018-05-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-30T04:00:00.000Z",
+		"created_at": "2018-05-29T21:00:00.000Z"
+	}, {
+		"id": "cbb14211-8117-4f7b-8f9f-1f4ffedea7d9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-30T21:00:00.000Z",
+		"clock_out": "2018-05-31T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-31T04:00:00.000Z",
+		"created_at": "2018-05-30T21:00:00.000Z"
+	}, {
+		"id": "deb59587-6f1b-4d40-820d-baa8fdd40449",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-05-31T21:00:00.000Z",
+		"clock_out": "2018-06-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-01T04:00:00.000Z",
+		"created_at": "2018-05-31T21:00:00.000Z"
+	}, {
+		"id": "61c2caad-c23a-4358-8f6b-803fd319ae17",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-01T21:00:00.000Z",
+		"clock_out": "2018-06-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-02T04:00:00.000Z",
+		"created_at": "2018-06-01T21:00:00.000Z"
+	}, {
+		"id": "852961f2-7d18-415c-aa14-a9918dcb06c9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-02T21:00:00.000Z",
+		"clock_out": "2018-06-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-03T04:00:00.000Z",
+		"created_at": "2018-06-02T21:00:00.000Z"
+	}, {
+		"id": "9f209182-feb9-438f-a236-751588c129aa",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-03T21:00:00.000Z",
+		"clock_out": "2018-06-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-04T04:00:00.000Z",
+		"created_at": "2018-06-03T21:00:00.000Z"
+	}, {
+		"id": "1220acd2-8a47-4c21-80a2-fc1c0269a0cb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-04T21:00:00.000Z",
+		"clock_out": "2018-06-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-05T04:00:00.000Z",
+		"created_at": "2018-06-04T21:00:00.000Z"
+	}, {
+		"id": "8cd7e287-515e-40de-a27a-25149a474072",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-05T21:00:00.000Z",
+		"clock_out": "2018-06-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-06T04:00:00.000Z",
+		"created_at": "2018-06-05T21:00:00.000Z"
+	}, {
+		"id": "04043ce1-084d-4bfe-8092-aeb6dabf8f83",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-06T21:00:00.000Z",
+		"clock_out": "2018-06-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-07T04:00:00.000Z",
+		"created_at": "2018-06-06T21:00:00.000Z"
+	}, {
+		"id": "6b90c16c-1c92-4d41-86b7-59b853cb1ec8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-07T21:00:00.000Z",
+		"clock_out": "2018-06-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-08T04:00:00.000Z",
+		"created_at": "2018-06-07T21:00:00.000Z"
+	}, {
+		"id": "c948b432-943c-4ac5-93cd-074bca24c770",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-08T21:00:00.000Z",
+		"clock_out": "2018-06-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-09T04:00:00.000Z",
+		"created_at": "2018-06-08T21:00:00.000Z"
+	}, {
+		"id": "ce17112c-09af-49e7-b89a-6a2c3d8f79dd",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-09T21:00:00.000Z",
+		"clock_out": "2018-06-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-10T04:00:00.000Z",
+		"created_at": "2018-06-09T21:00:00.000Z"
+	}, {
+		"id": "2815fcce-9671-400a-bba8-2d00c0a32186",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-10T21:00:00.000Z",
+		"clock_out": "2018-06-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-11T04:00:00.000Z",
+		"created_at": "2018-06-10T21:00:00.000Z"
+	}, {
+		"id": "9765df2a-9316-42fb-9656-af0abd2ec60b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-11T21:00:00.000Z",
+		"clock_out": "2018-06-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-12T04:00:00.000Z",
+		"created_at": "2018-06-11T21:00:00.000Z"
+	}, {
+		"id": "29110c7b-9107-41e1-91b7-618342f2d1a6",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-12T21:00:00.000Z",
+		"clock_out": "2018-06-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-13T04:00:00.000Z",
+		"created_at": "2018-06-12T21:00:00.000Z"
+	}, {
+		"id": "3babc6ba-2593-4f41-8f08-012bbf91be3d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-13T21:00:00.000Z",
+		"clock_out": "2018-06-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-14T04:00:00.000Z",
+		"created_at": "2018-06-13T21:00:00.000Z"
+	}, {
+		"id": "da62c4b5-3b49-4490-a755-4e6933f16f20",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-14T21:00:00.000Z",
+		"clock_out": "2018-06-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-15T04:00:00.000Z",
+		"created_at": "2018-06-14T21:00:00.000Z"
+	}, {
+		"id": "66eb0b29-00a7-4278-b670-450c3372f6b5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-15T21:00:00.000Z",
+		"clock_out": "2018-06-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-16T04:00:00.000Z",
+		"created_at": "2018-06-15T21:00:00.000Z"
+	}, {
+		"id": "ccb097f7-245d-45ac-8599-4e8c3ceec639",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-16T21:00:00.000Z",
+		"clock_out": "2018-06-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-17T04:00:00.000Z",
+		"created_at": "2018-06-16T21:00:00.000Z"
+	}, {
+		"id": "61a7d081-5512-40b1-86b5-b9cf497ca39d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-17T21:00:00.000Z",
+		"clock_out": "2018-06-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-18T04:00:00.000Z",
+		"created_at": "2018-06-17T21:00:00.000Z"
+	}, {
+		"id": "40447d40-2dcb-4d56-bcc0-a60430d529a3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-18T21:00:00.000Z",
+		"clock_out": "2018-06-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-19T04:00:00.000Z",
+		"created_at": "2018-06-18T21:00:00.000Z"
+	}, {
+		"id": "dab41fa3-1a75-421e-8cb3-45e83157693b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-19T21:00:00.000Z",
+		"clock_out": "2018-06-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-20T04:00:00.000Z",
+		"created_at": "2018-06-19T21:00:00.000Z"
+	}, {
+		"id": "b2c8b85f-7a25-4fc7-90e1-80c3d045712c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-20T21:00:00.000Z",
+		"clock_out": "2018-06-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-21T04:00:00.000Z",
+		"created_at": "2018-06-20T21:00:00.000Z"
+	}, {
+		"id": "24846f91-a991-4fde-81fd-9cc344530d6c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-21T21:00:00.000Z",
+		"clock_out": "2018-06-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-22T04:00:00.000Z",
+		"created_at": "2018-06-21T21:00:00.000Z"
+	}, {
+		"id": "0e838155-c1f1-4e2d-8bef-44ea213bd606",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-22T21:00:00.000Z",
+		"clock_out": "2018-06-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-23T04:00:00.000Z",
+		"created_at": "2018-06-22T21:00:00.000Z"
+	}, {
+		"id": "ffdd714f-a9a7-43dc-abe7-87b4d8d7bbf7",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-23T21:00:00.000Z",
+		"clock_out": "2018-06-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-24T04:00:00.000Z",
+		"created_at": "2018-06-23T21:00:00.000Z"
+	}, {
+		"id": "ee4dcba7-63ec-46d2-8ba5-c8f1c923291d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-24T21:00:00.000Z",
+		"clock_out": "2018-06-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-25T04:00:00.000Z",
+		"created_at": "2018-06-24T21:00:00.000Z"
+	}, {
+		"id": "50b45da4-0429-414a-95f6-0f76c7a18101",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-25T21:00:00.000Z",
+		"clock_out": "2018-06-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-26T04:00:00.000Z",
+		"created_at": "2018-06-25T21:00:00.000Z"
+	}, {
+		"id": "e4b1bf29-7a05-449c-9491-c2c740a0fe0a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-26T21:00:00.000Z",
+		"clock_out": "2018-06-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-27T04:00:00.000Z",
+		"created_at": "2018-06-26T21:00:00.000Z"
+	}, {
+		"id": "cfab8e93-d639-4d0a-90df-226103d947a2",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-27T21:00:00.000Z",
+		"clock_out": "2018-06-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-28T04:00:00.000Z",
+		"created_at": "2018-06-27T21:00:00.000Z"
+	}, {
+		"id": "e6c162d4-a7ed-4406-9d60-649bd6c40b5c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-28T21:00:00.000Z",
+		"clock_out": "2018-06-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-29T04:00:00.000Z",
+		"created_at": "2018-06-28T21:00:00.000Z"
+	}, {
+		"id": "4bc13f6a-4deb-48a5-9508-bbcdcda0c594",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-29T21:00:00.000Z",
+		"clock_out": "2018-06-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-30T04:00:00.000Z",
+		"created_at": "2018-06-29T21:00:00.000Z"
+	}, {
+		"id": "ed09949a-9043-43bf-ab3c-be48269cceae",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-06-30T21:00:00.000Z",
+		"clock_out": "2018-07-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-01T04:00:00.000Z",
+		"created_at": "2018-06-30T21:00:00.000Z"
+	}, {
+		"id": "b753ab0b-1c21-46ea-9f8e-0966c0d1a5e8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-01T21:00:00.000Z",
+		"clock_out": "2018-07-02T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-02T04:00:00.000Z",
+		"created_at": "2018-07-01T21:00:00.000Z"
+	}, {
+		"id": "15c96913-26cb-4a9a-8158-ef1f33090f0c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-02T21:00:00.000Z",
+		"clock_out": "2018-07-03T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-03T04:00:00.000Z",
+		"created_at": "2018-07-02T21:00:00.000Z"
+	}, {
+		"id": "67efd183-331e-4922-9099-7935a0909842",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-03T21:00:00.000Z",
+		"clock_out": "2018-07-04T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-04T04:00:00.000Z",
+		"created_at": "2018-07-03T21:00:00.000Z"
+	}, {
+		"id": "13da1478-85dd-4c9d-8fc0-c67fc97e2c86",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-04T21:00:00.000Z",
+		"clock_out": "2018-07-05T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-05T04:00:00.000Z",
+		"created_at": "2018-07-04T21:00:00.000Z"
+	}, {
+		"id": "e32b1001-be37-4eec-b259-cdddbb331225",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-05T21:00:00.000Z",
+		"clock_out": "2018-07-06T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-06T04:00:00.000Z",
+		"created_at": "2018-07-05T21:00:00.000Z"
+	}, {
+		"id": "70065a32-bbf9-4be3-973a-587a9e0b6c7c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-06T21:00:00.000Z",
+		"clock_out": "2018-07-07T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-07T04:00:00.000Z",
+		"created_at": "2018-07-06T21:00:00.000Z"
+	}, {
+		"id": "6f85de98-32fa-40ab-a392-8fc053c06936",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-07T21:00:00.000Z",
+		"clock_out": "2018-07-08T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-08T04:00:00.000Z",
+		"created_at": "2018-07-07T21:00:00.000Z"
+	}, {
+		"id": "57b0cc20-e592-4ea0-b8b8-233f0665490b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-08T21:00:00.000Z",
+		"clock_out": "2018-07-09T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-09T04:00:00.000Z",
+		"created_at": "2018-07-08T21:00:00.000Z"
+	}, {
+		"id": "867a45c2-7dfb-42ef-b848-618316bf5141",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-09T21:00:00.000Z",
+		"clock_out": "2018-07-10T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-10T04:00:00.000Z",
+		"created_at": "2018-07-09T21:00:00.000Z"
+	}, {
+		"id": "b81788d2-2d49-4780-a6d7-86d1f3c69d6f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-10T21:00:00.000Z",
+		"clock_out": "2018-07-11T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-11T04:00:00.000Z",
+		"created_at": "2018-07-10T21:00:00.000Z"
+	}, {
+		"id": "939f10a8-57e0-4c4f-9e6f-060098f0c362",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-11T21:00:00.000Z",
+		"clock_out": "2018-07-12T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-12T04:00:00.000Z",
+		"created_at": "2018-07-11T21:00:00.000Z"
+	}, {
+		"id": "c5858c25-2b3b-45d5-89f1-08841af535da",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-12T21:00:00.000Z",
+		"clock_out": "2018-07-13T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-13T04:00:00.000Z",
+		"created_at": "2018-07-12T21:00:00.000Z"
+	}, {
+		"id": "d40d198a-caea-4612-8aff-a7e4105c72ca",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-13T21:00:00.000Z",
+		"clock_out": "2018-07-14T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-14T04:00:00.000Z",
+		"created_at": "2018-07-13T21:00:00.000Z"
+	}, {
+		"id": "a4ce65aa-1b83-425f-ad73-9cb1675142f5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-14T21:00:00.000Z",
+		"clock_out": "2018-07-15T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-15T04:00:00.000Z",
+		"created_at": "2018-07-14T21:00:00.000Z"
+	}, {
+		"id": "b0d0c34e-2f6b-4486-a251-bba82de5e8e7",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-15T21:00:00.000Z",
+		"clock_out": "2018-07-16T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-16T04:00:00.000Z",
+		"created_at": "2018-07-15T21:00:00.000Z"
+	}, {
+		"id": "1b56200b-ca61-41ad-b394-d0ae579b7f1c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-16T21:00:00.000Z",
+		"clock_out": "2018-07-17T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-17T04:00:00.000Z",
+		"created_at": "2018-07-16T21:00:00.000Z"
+	}, {
+		"id": "3f384e48-83fd-4863-8ed2-7442102b3342",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-17T21:00:00.000Z",
+		"clock_out": "2018-07-18T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-18T04:00:00.000Z",
+		"created_at": "2018-07-17T21:00:00.000Z"
+	}, {
+		"id": "6ac77726-11ec-4b40-8d44-fd5368222cff",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-18T21:00:00.000Z",
+		"clock_out": "2018-07-19T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-19T04:00:00.000Z",
+		"created_at": "2018-07-18T21:00:00.000Z"
+	}, {
+		"id": "c9c65983-7115-4f5c-8d30-37790852bd05",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-19T21:00:00.000Z",
+		"clock_out": "2018-07-20T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-20T04:00:00.000Z",
+		"created_at": "2018-07-19T21:00:00.000Z"
+	}, {
+		"id": "1408b4f9-d1d7-4c97-a9a1-66cce43ac108",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-20T21:00:00.000Z",
+		"clock_out": "2018-07-21T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-21T04:00:00.000Z",
+		"created_at": "2018-07-20T21:00:00.000Z"
+	}, {
+		"id": "b7fe8dcc-8763-45db-804a-26702c5226e1",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-21T21:00:00.000Z",
+		"clock_out": "2018-07-22T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-22T04:00:00.000Z",
+		"created_at": "2018-07-21T21:00:00.000Z"
+	}, {
+		"id": "97cdc462-b917-45b4-9a33-6deee353f020",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-22T21:00:00.000Z",
+		"clock_out": "2018-07-23T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-23T04:00:00.000Z",
+		"created_at": "2018-07-22T21:00:00.000Z"
+	}, {
+		"id": "ec673bf1-b642-4fb0-a859-34eb8105e8ef",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-23T21:00:00.000Z",
+		"clock_out": "2018-07-24T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-24T04:00:00.000Z",
+		"created_at": "2018-07-23T21:00:00.000Z"
+	}, {
+		"id": "af8c6bed-0f4c-4cbd-b9e6-e8d6a3b9a4d9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-24T21:00:00.000Z",
+		"clock_out": "2018-07-25T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-25T04:00:00.000Z",
+		"created_at": "2018-07-24T21:00:00.000Z"
+	}, {
+		"id": "90418a1d-aec4-4ee2-bafa-dc4b20ce7b96",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-25T21:00:00.000Z",
+		"clock_out": "2018-07-26T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-26T04:00:00.000Z",
+		"created_at": "2018-07-25T21:00:00.000Z"
+	}, {
+		"id": "b19383b3-4cd8-48a8-a57d-3284b67fe264",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-26T21:00:00.000Z",
+		"clock_out": "2018-07-27T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-27T04:00:00.000Z",
+		"created_at": "2018-07-26T21:00:00.000Z"
+	}, {
+		"id": "118f1330-bf5a-420f-abc1-7818080e1194",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-27T21:00:00.000Z",
+		"clock_out": "2018-07-28T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-28T04:00:00.000Z",
+		"created_at": "2018-07-27T21:00:00.000Z"
+	}, {
+		"id": "83bad296-5c70-491d-b484-f5a2dd21f4b1",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-28T21:00:00.000Z",
+		"clock_out": "2018-07-29T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-29T04:00:00.000Z",
+		"created_at": "2018-07-28T21:00:00.000Z"
+	}, {
+		"id": "28b5b12a-820a-42be-8054-cabc5aeb426e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-29T21:00:00.000Z",
+		"clock_out": "2018-07-30T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-30T04:00:00.000Z",
+		"created_at": "2018-07-29T21:00:00.000Z"
+	}, {
+		"id": "eee5eda6-89b5-45cb-9803-88962d80b4e6",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-30T21:00:00.000Z",
+		"clock_out": "2018-07-31T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-31T04:00:00.000Z",
+		"created_at": "2018-07-30T21:00:00.000Z"
+	}, {
+		"id": "4f5c3cd6-30c4-47d8-a12d-9d211edeb78a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "9427d2bb-f2b8-4b9b-804f-6966c4328574",
+		"name": "Shawn Saldana",
+		"clock_in": "2018-07-31T21:00:00.000Z",
+		"clock_out": "2018-08-01T04:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-08-01T04:00:00.000Z",
+		"created_at": "2018-07-31T21:00:00.000Z"
+	}, {
+		"id": "78292cf9-d4d0-4827-bdbb-a028b98d213b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-01T18:00:00.000Z",
+		"clock_out": "2018-05-02T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-02T03:00:00.000Z",
+		"created_at": "2018-05-01T18:00:00.000Z"
+	}, {
+		"id": "e3d16db9-976a-4a0b-9273-0d74c4cf0e82",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-02T18:00:00.000Z",
+		"clock_out": "2018-05-03T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-03T03:00:00.000Z",
+		"created_at": "2018-05-02T18:00:00.000Z"
+	}, {
+		"id": "4afcfb60-63de-437c-9a03-433f9152252b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-03T18:00:00.000Z",
+		"clock_out": "2018-05-04T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-04T03:00:00.000Z",
+		"created_at": "2018-05-03T18:00:00.000Z"
+	}, {
+		"id": "61632d9d-5813-4e17-99b9-dee8b2737217",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-04T18:00:00.000Z",
+		"clock_out": "2018-05-05T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-05T03:00:00.000Z",
+		"created_at": "2018-05-04T18:00:00.000Z"
+	}, {
+		"id": "3c307c7b-b635-44b8-9e64-3fd6d53e06ef",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-05T18:00:00.000Z",
+		"clock_out": "2018-05-06T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-06T03:00:00.000Z",
+		"created_at": "2018-05-05T18:00:00.000Z"
+	}, {
+		"id": "4588e58a-fadb-4726-8c6c-e3e60979974e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-06T18:00:00.000Z",
+		"clock_out": "2018-05-07T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-07T03:00:00.000Z",
+		"created_at": "2018-05-06T18:00:00.000Z"
+	}, {
+		"id": "7ea9a9a7-6da2-4317-95e4-0a54da20ee8e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-07T18:00:00.000Z",
+		"clock_out": "2018-05-08T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-08T03:00:00.000Z",
+		"created_at": "2018-05-07T18:00:00.000Z"
+	}, {
+		"id": "601255ad-ad30-4b9a-87f3-df0834e2282c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-08T18:00:00.000Z",
+		"clock_out": "2018-05-09T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-09T03:00:00.000Z",
+		"created_at": "2018-05-08T18:00:00.000Z"
+	}, {
+		"id": "5daafe6e-bd88-4eb0-bb18-6476ec2af92b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-09T18:00:00.000Z",
+		"clock_out": "2018-05-10T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-10T03:00:00.000Z",
+		"created_at": "2018-05-09T18:00:00.000Z"
+	}, {
+		"id": "0cf4479a-b11c-4e0e-bce2-181077386a5c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-10T18:00:00.000Z",
+		"clock_out": "2018-05-11T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-11T03:00:00.000Z",
+		"created_at": "2018-05-10T18:00:00.000Z"
+	}, {
+		"id": "68f4bc30-9bab-4546-9c53-33729980fd64",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-11T18:00:00.000Z",
+		"clock_out": "2018-05-12T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-12T03:00:00.000Z",
+		"created_at": "2018-05-11T18:00:00.000Z"
+	}, {
+		"id": "b3dacb2b-8fc6-4c6c-bd05-d0751c859791",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-12T18:00:00.000Z",
+		"clock_out": "2018-05-13T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-13T03:00:00.000Z",
+		"created_at": "2018-05-12T18:00:00.000Z"
+	}, {
+		"id": "a9f4849b-0982-43cb-b2b5-ef90f8739923",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-13T18:00:00.000Z",
+		"clock_out": "2018-05-14T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-14T03:00:00.000Z",
+		"created_at": "2018-05-13T18:00:00.000Z"
+	}, {
+		"id": "49b13c27-3e96-4dd0-b199-0060b999c823",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-14T18:00:00.000Z",
+		"clock_out": "2018-05-15T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-15T03:00:00.000Z",
+		"created_at": "2018-05-14T18:00:00.000Z"
+	}, {
+		"id": "32be308e-cff2-44e7-b1be-b448a942b743",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-15T18:00:00.000Z",
+		"clock_out": "2018-05-16T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-16T03:00:00.000Z",
+		"created_at": "2018-05-15T18:00:00.000Z"
+	}, {
+		"id": "7fd15e13-cc27-4251-a6f5-2b3588110370",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-16T18:00:00.000Z",
+		"clock_out": "2018-05-17T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-17T03:00:00.000Z",
+		"created_at": "2018-05-16T18:00:00.000Z"
+	}, {
+		"id": "57bfb360-d157-4300-a339-b5c700b90fd8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-17T18:00:00.000Z",
+		"clock_out": "2018-05-18T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-18T03:00:00.000Z",
+		"created_at": "2018-05-17T18:00:00.000Z"
+	}, {
+		"id": "10fd2a66-53a1-448d-aeab-d502894f8c59",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-18T18:00:00.000Z",
+		"clock_out": "2018-05-19T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-19T03:00:00.000Z",
+		"created_at": "2018-05-18T18:00:00.000Z"
+	}, {
+		"id": "28681638-a6fc-451a-bf9c-e8b94e794b4a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-19T18:00:00.000Z",
+		"clock_out": "2018-05-20T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-20T03:00:00.000Z",
+		"created_at": "2018-05-19T18:00:00.000Z"
+	}, {
+		"id": "d80974da-2471-433c-a39e-7f17f9dac19f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-20T18:00:00.000Z",
+		"clock_out": "2018-05-21T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-21T03:00:00.000Z",
+		"created_at": "2018-05-20T18:00:00.000Z"
+	}, {
+		"id": "73cba6d1-8310-4ad6-807b-b96976bff0cc",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-21T18:00:00.000Z",
+		"clock_out": "2018-05-22T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-22T03:00:00.000Z",
+		"created_at": "2018-05-21T18:00:00.000Z"
+	}, {
+		"id": "c3753ac8-3453-4955-bcfd-d3f91cc0a99d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-22T18:00:00.000Z",
+		"clock_out": "2018-05-23T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-23T03:00:00.000Z",
+		"created_at": "2018-05-22T18:00:00.000Z"
+	}, {
+		"id": "25bdd6f9-3349-4aa2-bbee-9a4b3181c069",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-23T18:00:00.000Z",
+		"clock_out": "2018-05-24T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-24T03:00:00.000Z",
+		"created_at": "2018-05-23T18:00:00.000Z"
+	}, {
+		"id": "63b32f4f-f677-4f59-b9e9-7428cdcaa72f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-24T18:00:00.000Z",
+		"clock_out": "2018-05-25T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-25T03:00:00.000Z",
+		"created_at": "2018-05-24T18:00:00.000Z"
+	}, {
+		"id": "abe1306c-47fc-44ba-bd8f-8f81265dd4b3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-25T18:00:00.000Z",
+		"clock_out": "2018-05-26T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-26T03:00:00.000Z",
+		"created_at": "2018-05-25T18:00:00.000Z"
+	}, {
+		"id": "1845129a-3029-4054-b442-ef4e0e14b2a3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-26T18:00:00.000Z",
+		"clock_out": "2018-05-27T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-27T03:00:00.000Z",
+		"created_at": "2018-05-26T18:00:00.000Z"
+	}, {
+		"id": "9ac991aa-a13a-45ba-9a83-b9d44e6aee0b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-27T18:00:00.000Z",
+		"clock_out": "2018-05-28T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-28T03:00:00.000Z",
+		"created_at": "2018-05-27T18:00:00.000Z"
+	}, {
+		"id": "4d411dc5-d4bd-4c2a-894a-ba4134da25b8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-28T18:00:00.000Z",
+		"clock_out": "2018-05-29T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-29T03:00:00.000Z",
+		"created_at": "2018-05-28T18:00:00.000Z"
+	}, {
+		"id": "ae9e42fd-ca30-4699-836f-86b8b8ee5142",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-29T18:00:00.000Z",
+		"clock_out": "2018-05-30T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-30T03:00:00.000Z",
+		"created_at": "2018-05-29T18:00:00.000Z"
+	}, {
+		"id": "f0b8cf95-dc49-4f40-aaa7-e3e010c2cf04",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-30T18:00:00.000Z",
+		"clock_out": "2018-05-31T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-05-31T03:00:00.000Z",
+		"created_at": "2018-05-30T18:00:00.000Z"
+	}, {
+		"id": "81a93e81-e11f-4b9e-9bfd-b38cb60117c8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-05-31T18:00:00.000Z",
+		"clock_out": "2018-06-01T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-01T03:00:00.000Z",
+		"created_at": "2018-05-31T18:00:00.000Z"
+	}, {
+		"id": "444822df-fbf6-4460-953c-0dd48aa73863",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-01T18:00:00.000Z",
+		"clock_out": "2018-06-02T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-02T03:00:00.000Z",
+		"created_at": "2018-06-01T18:00:00.000Z"
+	}, {
+		"id": "255d6308-6efc-4e4f-9203-0332e722eb8d",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-02T18:00:00.000Z",
+		"clock_out": "2018-06-03T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-03T03:00:00.000Z",
+		"created_at": "2018-06-02T18:00:00.000Z"
+	}, {
+		"id": "9e2d0bb2-05c5-4696-b982-85a6026f006c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-03T18:00:00.000Z",
+		"clock_out": "2018-06-04T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-04T03:00:00.000Z",
+		"created_at": "2018-06-03T18:00:00.000Z"
+	}, {
+		"id": "8f83fdb5-4e03-483c-ba36-3108b7369f27",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-04T18:00:00.000Z",
+		"clock_out": "2018-06-05T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-05T03:00:00.000Z",
+		"created_at": "2018-06-04T18:00:00.000Z"
+	}, {
+		"id": "afea9099-e65f-4c60-b57c-5383535c25d7",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-05T18:00:00.000Z",
+		"clock_out": "2018-06-06T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-06T03:00:00.000Z",
+		"created_at": "2018-06-05T18:00:00.000Z"
+	}, {
+		"id": "4ec88d59-6779-440d-a13f-d68a37ae0729",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-06T18:00:00.000Z",
+		"clock_out": "2018-06-07T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-07T03:00:00.000Z",
+		"created_at": "2018-06-06T18:00:00.000Z"
+	}, {
+		"id": "191f6dc4-94a3-418c-81dd-2b035b4ea3e9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-07T18:00:00.000Z",
+		"clock_out": "2018-06-08T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-08T03:00:00.000Z",
+		"created_at": "2018-06-07T18:00:00.000Z"
+	}, {
+		"id": "0cb35622-ef65-42db-8bd7-ad3a45fa20b9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-08T18:00:00.000Z",
+		"clock_out": "2018-06-09T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-09T03:00:00.000Z",
+		"created_at": "2018-06-08T18:00:00.000Z"
+	}, {
+		"id": "d4fb78bd-73a5-441c-b0a5-84a92c39cef4",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-09T18:00:00.000Z",
+		"clock_out": "2018-06-10T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-10T03:00:00.000Z",
+		"created_at": "2018-06-09T18:00:00.000Z"
+	}, {
+		"id": "2efac629-fa19-43b9-880e-31ed3d0961e0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-10T18:00:00.000Z",
+		"clock_out": "2018-06-11T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-11T03:00:00.000Z",
+		"created_at": "2018-06-10T18:00:00.000Z"
+	}, {
+		"id": "a1dc38a3-9e3e-4253-804a-dedd1f88ccbc",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-11T18:00:00.000Z",
+		"clock_out": "2018-06-12T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-12T03:00:00.000Z",
+		"created_at": "2018-06-11T18:00:00.000Z"
+	}, {
+		"id": "87ac7c69-60d1-4679-9cff-44821be1955a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-12T18:00:00.000Z",
+		"clock_out": "2018-06-13T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-13T03:00:00.000Z",
+		"created_at": "2018-06-12T18:00:00.000Z"
+	}, {
+		"id": "b5850600-c1eb-4e57-b38b-a92f2e5a233c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-13T18:00:00.000Z",
+		"clock_out": "2018-06-14T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-14T03:00:00.000Z",
+		"created_at": "2018-06-13T18:00:00.000Z"
+	}, {
+		"id": "d9d84b6f-c001-4e5f-b106-c819f00d197f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-14T18:00:00.000Z",
+		"clock_out": "2018-06-15T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-15T03:00:00.000Z",
+		"created_at": "2018-06-14T18:00:00.000Z"
+	}, {
+		"id": "9a3aa423-0db2-4587-96be-4107c6ba919f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-15T18:00:00.000Z",
+		"clock_out": "2018-06-16T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-16T03:00:00.000Z",
+		"created_at": "2018-06-15T18:00:00.000Z"
+	}, {
+		"id": "ca6a4b01-8a50-43ee-9657-d8343e2e9bee",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-16T18:00:00.000Z",
+		"clock_out": "2018-06-17T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-17T03:00:00.000Z",
+		"created_at": "2018-06-16T18:00:00.000Z"
+	}, {
+		"id": "2e1cc1b0-3da4-407c-82ff-99ffdb816f2e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-17T18:00:00.000Z",
+		"clock_out": "2018-06-18T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-18T03:00:00.000Z",
+		"created_at": "2018-06-17T18:00:00.000Z"
+	}, {
+		"id": "0bf62b7a-c040-4969-bf51-2eec419a358b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-18T18:00:00.000Z",
+		"clock_out": "2018-06-19T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-19T03:00:00.000Z",
+		"created_at": "2018-06-18T18:00:00.000Z"
+	}, {
+		"id": "78f2052f-2376-4dbc-b5e1-2cc3ae95a194",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-19T18:00:00.000Z",
+		"clock_out": "2018-06-20T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-20T03:00:00.000Z",
+		"created_at": "2018-06-19T18:00:00.000Z"
+	}, {
+		"id": "ca029b69-1e0a-4a86-83e9-cbe627cc83b0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-20T18:00:00.000Z",
+		"clock_out": "2018-06-21T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-21T03:00:00.000Z",
+		"created_at": "2018-06-20T18:00:00.000Z"
+	}, {
+		"id": "d3eae5d9-52d5-4aeb-913c-ab9c7eb6ae66",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-21T18:00:00.000Z",
+		"clock_out": "2018-06-22T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-22T03:00:00.000Z",
+		"created_at": "2018-06-21T18:00:00.000Z"
+	}, {
+		"id": "3f873772-031b-44ae-b936-d0f2cee7b3c8",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-22T18:00:00.000Z",
+		"clock_out": "2018-06-23T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-23T03:00:00.000Z",
+		"created_at": "2018-06-22T18:00:00.000Z"
+	}, {
+		"id": "1714b50d-1989-4be8-a196-ca5f283bac5b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-23T18:00:00.000Z",
+		"clock_out": "2018-06-24T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-24T03:00:00.000Z",
+		"created_at": "2018-06-23T18:00:00.000Z"
+	}, {
+		"id": "ddbb4b62-74e1-4d14-8f48-9a910f965894",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-24T18:00:00.000Z",
+		"clock_out": "2018-06-25T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-25T03:00:00.000Z",
+		"created_at": "2018-06-24T18:00:00.000Z"
+	}, {
+		"id": "72d45adc-ce57-4c74-a89a-4f87f36a904f",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-25T18:00:00.000Z",
+		"clock_out": "2018-06-26T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-26T03:00:00.000Z",
+		"created_at": "2018-06-25T18:00:00.000Z"
+	}, {
+		"id": "bd6492e8-4f8d-4962-805e-0c2ce2ab42fa",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-26T18:00:00.000Z",
+		"clock_out": "2018-06-27T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-27T03:00:00.000Z",
+		"created_at": "2018-06-26T18:00:00.000Z"
+	}, {
+		"id": "0e8b3459-ad75-4b0d-9184-23fd3d2e5794",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-27T18:00:00.000Z",
+		"clock_out": "2018-06-28T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-28T03:00:00.000Z",
+		"created_at": "2018-06-27T18:00:00.000Z"
+	}, {
+		"id": "fce7371c-97d4-41bd-afe0-a657712dd084",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-28T18:00:00.000Z",
+		"clock_out": "2018-06-29T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-29T03:00:00.000Z",
+		"created_at": "2018-06-28T18:00:00.000Z"
+	}, {
+		"id": "ae53454e-3a2d-4559-b522-2fe8952f54d3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-29T18:00:00.000Z",
+		"clock_out": "2018-06-30T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-06-30T03:00:00.000Z",
+		"created_at": "2018-06-29T18:00:00.000Z"
+	}, {
+		"id": "51f7b2ce-e8b7-40d7-a013-53bc1520c839",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-06-30T18:00:00.000Z",
+		"clock_out": "2018-07-01T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-01T03:00:00.000Z",
+		"created_at": "2018-06-30T18:00:00.000Z"
+	}, {
+		"id": "0ce56732-5bac-45c2-a5bd-2609b022189c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-01T18:00:00.000Z",
+		"clock_out": "2018-07-02T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-02T03:00:00.000Z",
+		"created_at": "2018-07-01T18:00:00.000Z"
+	}, {
+		"id": "b5476c15-3ffe-43bd-9e5a-91f6ca4f9601",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-02T18:00:00.000Z",
+		"clock_out": "2018-07-03T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-03T03:00:00.000Z",
+		"created_at": "2018-07-02T18:00:00.000Z"
+	}, {
+		"id": "55e0d729-4861-4d47-8ed5-89e78023330e",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-03T18:00:00.000Z",
+		"clock_out": "2018-07-04T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-04T03:00:00.000Z",
+		"created_at": "2018-07-03T18:00:00.000Z"
+	}, {
+		"id": "f7bccf9d-80d6-4eaa-8288-6fbab9c3a25b",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-04T18:00:00.000Z",
+		"clock_out": "2018-07-05T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-05T03:00:00.000Z",
+		"created_at": "2018-07-04T18:00:00.000Z"
+	}, {
+		"id": "224c24ac-840b-40a5-a3e6-4b3f2d694491",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-05T18:00:00.000Z",
+		"clock_out": "2018-07-06T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-06T03:00:00.000Z",
+		"created_at": "2018-07-05T18:00:00.000Z"
+	}, {
+		"id": "eb1a0b6b-bf0f-4c00-8c9c-32a4d1119612",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-06T18:00:00.000Z",
+		"clock_out": "2018-07-07T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-07T03:00:00.000Z",
+		"created_at": "2018-07-06T18:00:00.000Z"
+	}, {
+		"id": "47c8dd75-de79-4e35-8f8a-ecc411f2a0a5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-07T18:00:00.000Z",
+		"clock_out": "2018-07-08T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-08T03:00:00.000Z",
+		"created_at": "2018-07-07T18:00:00.000Z"
+	}, {
+		"id": "cc194da0-1505-4c1e-bf9c-7ce5608b8d36",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-08T18:00:00.000Z",
+		"clock_out": "2018-07-09T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-09T03:00:00.000Z",
+		"created_at": "2018-07-08T18:00:00.000Z"
+	}, {
+		"id": "6538a571-06c7-44bb-8ebf-4a12364eb08a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-09T18:00:00.000Z",
+		"clock_out": "2018-07-10T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-10T03:00:00.000Z",
+		"created_at": "2018-07-09T18:00:00.000Z"
+	}, {
+		"id": "c882b5d1-329b-4b25-b0b6-3a1efd99ace5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-10T18:00:00.000Z",
+		"clock_out": "2018-07-11T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-11T03:00:00.000Z",
+		"created_at": "2018-07-10T18:00:00.000Z"
+	}, {
+		"id": "93ee70ad-cdd5-4174-bd62-8f8702171ae3",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-11T18:00:00.000Z",
+		"clock_out": "2018-07-12T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-12T03:00:00.000Z",
+		"created_at": "2018-07-11T18:00:00.000Z"
+	}, {
+		"id": "bcfc46a4-645a-41be-a3a5-00825a73a380",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-12T18:00:00.000Z",
+		"clock_out": "2018-07-13T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-13T03:00:00.000Z",
+		"created_at": "2018-07-12T18:00:00.000Z"
+	}, {
+		"id": "39b7ac52-8b64-4857-bae7-54c41439b69c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-13T18:00:00.000Z",
+		"clock_out": "2018-07-14T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-14T03:00:00.000Z",
+		"created_at": "2018-07-13T18:00:00.000Z"
+	}, {
+		"id": "75655e28-24ce-4f6a-bd48-ebb37d8d7b48",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-14T18:00:00.000Z",
+		"clock_out": "2018-07-15T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-15T03:00:00.000Z",
+		"created_at": "2018-07-14T18:00:00.000Z"
+	}, {
+		"id": "1e67db02-730e-4bd6-aa77-a4d3684336d5",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-15T18:00:00.000Z",
+		"clock_out": "2018-07-16T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-16T03:00:00.000Z",
+		"created_at": "2018-07-15T18:00:00.000Z"
+	}, {
+		"id": "8df677d4-b6db-48e6-918f-189b4f7a2931",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-16T18:00:00.000Z",
+		"clock_out": "2018-07-17T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-17T03:00:00.000Z",
+		"created_at": "2018-07-16T18:00:00.000Z"
+	}, {
+		"id": "8a1f469f-435e-4e84-9494-3b7a67440069",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-17T18:00:00.000Z",
+		"clock_out": "2018-07-18T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-18T03:00:00.000Z",
+		"created_at": "2018-07-17T18:00:00.000Z"
+	}, {
+		"id": "cc69ea24-ab7f-44df-88c1-b8d7ce6dc0a9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-18T18:00:00.000Z",
+		"clock_out": "2018-07-19T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-19T03:00:00.000Z",
+		"created_at": "2018-07-18T18:00:00.000Z"
+	}, {
+		"id": "5fb17929-078c-4a99-94c4-2c60c84f1643",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-19T18:00:00.000Z",
+		"clock_out": "2018-07-20T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-20T03:00:00.000Z",
+		"created_at": "2018-07-19T18:00:00.000Z"
+	}, {
+		"id": "3dd2afe6-fbd5-4240-b318-42d4246094eb",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-20T18:00:00.000Z",
+		"clock_out": "2018-07-21T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-21T03:00:00.000Z",
+		"created_at": "2018-07-20T18:00:00.000Z"
+	}, {
+		"id": "6710b2b7-b997-4532-90c4-501ee5c8fe86",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-21T18:00:00.000Z",
+		"clock_out": "2018-07-22T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-22T03:00:00.000Z",
+		"created_at": "2018-07-21T18:00:00.000Z"
+	}, {
+		"id": "b4a33a74-6d48-4e6d-b101-1fb566e28fe9",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-22T18:00:00.000Z",
+		"clock_out": "2018-07-23T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-23T03:00:00.000Z",
+		"created_at": "2018-07-22T18:00:00.000Z"
+	}, {
+		"id": "2ef154c7-c222-42ea-b3b3-bd3997eed30a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-23T18:00:00.000Z",
+		"clock_out": "2018-07-24T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-24T03:00:00.000Z",
+		"created_at": "2018-07-23T18:00:00.000Z"
+	}, {
+		"id": "21c447f1-ec03-4bbf-a3b6-ca8b446d775c",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-24T18:00:00.000Z",
+		"clock_out": "2018-07-25T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-25T03:00:00.000Z",
+		"created_at": "2018-07-24T18:00:00.000Z"
+	}, {
+		"id": "f14ce003-0b9e-4740-ace1-1e80f47f735a",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-25T18:00:00.000Z",
+		"clock_out": "2018-07-26T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-26T03:00:00.000Z",
+		"created_at": "2018-07-25T18:00:00.000Z"
+	}, {
+		"id": "a95a1570-a05c-43ac-a8d6-a5c1503cff65",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-26T18:00:00.000Z",
+		"clock_out": "2018-07-27T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-27T03:00:00.000Z",
+		"created_at": "2018-07-26T18:00:00.000Z"
+	}, {
+		"id": "9ad9dd57-d05b-438f-a993-13cc934e5d95",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-27T18:00:00.000Z",
+		"clock_out": "2018-07-28T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-28T03:00:00.000Z",
+		"created_at": "2018-07-27T18:00:00.000Z"
+	}, {
+		"id": "48960914-dd6b-4c58-9aa3-3e9fd67959a0",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-28T18:00:00.000Z",
+		"clock_out": "2018-07-29T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-29T03:00:00.000Z",
+		"created_at": "2018-07-28T18:00:00.000Z"
+	}, {
+		"id": "b294131f-c1c2-48df-9d23-24530dde5a00",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-29T18:00:00.000Z",
+		"clock_out": "2018-07-30T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-30T03:00:00.000Z",
+		"created_at": "2018-07-29T18:00:00.000Z"
+	}, {
+		"id": "17b921a4-cd57-49f1-b5e2-aa56bfa8ad25",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-30T18:00:00.000Z",
+		"clock_out": "2018-07-31T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-07-31T03:00:00.000Z",
+		"created_at": "2018-07-30T18:00:00.000Z"
+	}, {
+		"id": "1d58f531-f205-4175-a6c9-d6ed0d4b2eac",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"employee_id": "8d70a203-18ff-47c3-afed-fafbf5048b49",
+		"name": "Kylo Ren",
+		"clock_in": "2018-07-31T18:00:00.000Z",
+		"clock_out": "2018-08-01T03:00:00.000Z",
+		"pay_rate": 12,
+		"updated_at": "2018-08-01T03:00:00.000Z",
+		"created_at": "2018-07-31T18:00:00.000Z"
+	}, {
+		"id": "f6878151-85ac-4e32-a753-85e211e79693",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-01T20:00:00.000Z",
+		"clock_out": "2018-05-02T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-02T03:00:00.000Z",
+		"created_at": "2018-05-01T20:00:00.000Z"
+	}, {
+		"id": "818af892-a1a1-493e-95fa-830d1f384476",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-02T20:00:00.000Z",
+		"clock_out": "2018-05-03T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-03T03:00:00.000Z",
+		"created_at": "2018-05-02T20:00:00.000Z"
+	}, {
+		"id": "e15014a0-004a-45c9-a1ab-752604f6aab8",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-03T20:00:00.000Z",
+		"clock_out": "2018-05-04T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-04T03:00:00.000Z",
+		"created_at": "2018-05-03T20:00:00.000Z"
+	}, {
+		"id": "b5513eac-6113-4a29-a55e-6fee9537cdeb",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-04T20:00:00.000Z",
+		"clock_out": "2018-05-05T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-05T03:00:00.000Z",
+		"created_at": "2018-05-04T20:00:00.000Z"
+	}, {
+		"id": "b161da45-b5eb-4b40-a31c-df4bf9164a64",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-05T20:00:00.000Z",
+		"clock_out": "2018-05-06T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-06T03:00:00.000Z",
+		"created_at": "2018-05-05T20:00:00.000Z"
+	}, {
+		"id": "702b0364-65ed-45b0-b8f2-07877ea205ee",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-06T20:00:00.000Z",
+		"clock_out": "2018-05-07T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-07T03:00:00.000Z",
+		"created_at": "2018-05-06T20:00:00.000Z"
+	}, {
+		"id": "1aed930b-7633-4606-9dfa-86ed950d3f26",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-07T20:00:00.000Z",
+		"clock_out": "2018-05-08T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-08T03:00:00.000Z",
+		"created_at": "2018-05-07T20:00:00.000Z"
+	}, {
+		"id": "80ab8474-4894-4820-b454-9ed375657c28",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-08T20:00:00.000Z",
+		"clock_out": "2018-05-09T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-09T03:00:00.000Z",
+		"created_at": "2018-05-08T20:00:00.000Z"
+	}, {
+		"id": "70a6c51a-230d-4250-b4b9-4a88c23998b2",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-09T20:00:00.000Z",
+		"clock_out": "2018-05-10T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-10T03:00:00.000Z",
+		"created_at": "2018-05-09T20:00:00.000Z"
+	}, {
+		"id": "23e49b31-d229-4676-83f8-b722c630b1d3",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-10T20:00:00.000Z",
+		"clock_out": "2018-05-11T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-11T03:00:00.000Z",
+		"created_at": "2018-05-10T20:00:00.000Z"
+	}, {
+		"id": "3b8f5172-81a8-4c8d-998c-0460e0e97909",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-11T20:00:00.000Z",
+		"clock_out": "2018-05-12T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-12T03:00:00.000Z",
+		"created_at": "2018-05-11T20:00:00.000Z"
+	}, {
+		"id": "8b605324-a3b2-4181-b382-e7fc4f3e8642",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-12T20:00:00.000Z",
+		"clock_out": "2018-05-13T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-13T03:00:00.000Z",
+		"created_at": "2018-05-12T20:00:00.000Z"
+	}, {
+		"id": "0acdda59-5518-44d4-ae67-49516b197880",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-13T20:00:00.000Z",
+		"clock_out": "2018-05-14T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-14T03:00:00.000Z",
+		"created_at": "2018-05-13T20:00:00.000Z"
+	}, {
+		"id": "2fdaa4b6-6879-47ce-8be8-25be28c53625",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-14T20:00:00.000Z",
+		"clock_out": "2018-05-15T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-15T03:00:00.000Z",
+		"created_at": "2018-05-14T20:00:00.000Z"
+	}, {
+		"id": "8755b4ec-3adb-48de-b15c-f4843bf15d71",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-15T20:00:00.000Z",
+		"clock_out": "2018-05-16T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-16T03:00:00.000Z",
+		"created_at": "2018-05-15T20:00:00.000Z"
+	}, {
+		"id": "b3e573c0-4d25-4e48-b730-3f75206ac078",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-16T20:00:00.000Z",
+		"clock_out": "2018-05-17T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-17T03:00:00.000Z",
+		"created_at": "2018-05-16T20:00:00.000Z"
+	}, {
+		"id": "a0476411-1da5-4335-966f-d3d377965686",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-17T20:00:00.000Z",
+		"clock_out": "2018-05-18T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-18T03:00:00.000Z",
+		"created_at": "2018-05-17T20:00:00.000Z"
+	}, {
+		"id": "c68fc812-5b59-4586-96fe-d67ce6eee61b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-18T20:00:00.000Z",
+		"clock_out": "2018-05-19T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-19T03:00:00.000Z",
+		"created_at": "2018-05-18T20:00:00.000Z"
+	}, {
+		"id": "6e6d13f0-ad76-4781-9672-cf06aceb3912",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-19T20:00:00.000Z",
+		"clock_out": "2018-05-20T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-20T03:00:00.000Z",
+		"created_at": "2018-05-19T20:00:00.000Z"
+	}, {
+		"id": "4eadb1fd-bae1-46c5-9d59-deaedb5cb533",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-20T20:00:00.000Z",
+		"clock_out": "2018-05-21T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-21T03:00:00.000Z",
+		"created_at": "2018-05-20T20:00:00.000Z"
+	}, {
+		"id": "dbc4f43f-9476-4fc6-ab63-4af354ebb089",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-21T20:00:00.000Z",
+		"clock_out": "2018-05-22T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-22T03:00:00.000Z",
+		"created_at": "2018-05-21T20:00:00.000Z"
+	}, {
+		"id": "b7b5a249-1935-4583-9e81-b395819621e3",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-22T20:00:00.000Z",
+		"clock_out": "2018-05-23T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-23T03:00:00.000Z",
+		"created_at": "2018-05-22T20:00:00.000Z"
+	}, {
+		"id": "f0b09d65-22b8-4030-b615-8e47c7e6d08c",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-23T20:00:00.000Z",
+		"clock_out": "2018-05-24T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-24T03:00:00.000Z",
+		"created_at": "2018-05-23T20:00:00.000Z"
+	}, {
+		"id": "4f386202-12fb-46e8-8113-1dd15c255931",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-24T20:00:00.000Z",
+		"clock_out": "2018-05-25T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-25T03:00:00.000Z",
+		"created_at": "2018-05-24T20:00:00.000Z"
+	}, {
+		"id": "663457ee-3484-4574-82c3-7b17fa2a2d2c",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-25T20:00:00.000Z",
+		"clock_out": "2018-05-26T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-26T03:00:00.000Z",
+		"created_at": "2018-05-25T20:00:00.000Z"
+	}, {
+		"id": "7f9b3210-8b82-4c84-a5c9-bd5ec6f05311",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-26T20:00:00.000Z",
+		"clock_out": "2018-05-27T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-27T03:00:00.000Z",
+		"created_at": "2018-05-26T20:00:00.000Z"
+	}, {
+		"id": "330705a6-8da4-4cb9-bb64-59a2fb5c14ae",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-27T20:00:00.000Z",
+		"clock_out": "2018-05-28T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-28T03:00:00.000Z",
+		"created_at": "2018-05-27T20:00:00.000Z"
+	}, {
+		"id": "a2c35c50-516d-4013-93ca-e1f29682612f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-28T20:00:00.000Z",
+		"clock_out": "2018-05-29T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-29T03:00:00.000Z",
+		"created_at": "2018-05-28T20:00:00.000Z"
+	}, {
+		"id": "ca0cd827-2420-4979-9619-cd9f27c8bb47",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-29T20:00:00.000Z",
+		"clock_out": "2018-05-30T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-30T03:00:00.000Z",
+		"created_at": "2018-05-29T20:00:00.000Z"
+	}, {
+		"id": "dd678a1f-7fb5-4543-b67a-981e14f74b1c",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-30T20:00:00.000Z",
+		"clock_out": "2018-05-31T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-05-31T03:00:00.000Z",
+		"created_at": "2018-05-30T20:00:00.000Z"
+	}, {
+		"id": "45886ab4-f7a0-43c9-afef-dd61318b561f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-05-31T20:00:00.000Z",
+		"clock_out": "2018-06-01T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-01T03:00:00.000Z",
+		"created_at": "2018-05-31T20:00:00.000Z"
+	}, {
+		"id": "ffd98c68-82a3-476b-bec3-b65378ae6291",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-01T20:00:00.000Z",
+		"clock_out": "2018-06-02T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-02T03:00:00.000Z",
+		"created_at": "2018-06-01T20:00:00.000Z"
+	}, {
+		"id": "8c7ec68e-f29e-4a43-9467-17e86404830f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-02T20:00:00.000Z",
+		"clock_out": "2018-06-03T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-03T03:00:00.000Z",
+		"created_at": "2018-06-02T20:00:00.000Z"
+	}, {
+		"id": "b2600868-a604-4f96-95ae-225d86bbf1ca",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-03T20:00:00.000Z",
+		"clock_out": "2018-06-04T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-04T03:00:00.000Z",
+		"created_at": "2018-06-03T20:00:00.000Z"
+	}, {
+		"id": "e7f96652-b880-44ab-b56e-e69228e68868",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-04T20:00:00.000Z",
+		"clock_out": "2018-06-05T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-05T03:00:00.000Z",
+		"created_at": "2018-06-04T20:00:00.000Z"
+	}, {
+		"id": "42c4d46d-80ae-40ac-b66e-a3b1df60dd66",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-05T20:00:00.000Z",
+		"clock_out": "2018-06-06T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-06T03:00:00.000Z",
+		"created_at": "2018-06-05T20:00:00.000Z"
+	}, {
+		"id": "de6aca3c-2054-418e-b727-1d16e80b51c9",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-06T20:00:00.000Z",
+		"clock_out": "2018-06-07T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-07T03:00:00.000Z",
+		"created_at": "2018-06-06T20:00:00.000Z"
+	}, {
+		"id": "501e45c9-7da0-4b9e-9c2d-4722069388a1",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-07T20:00:00.000Z",
+		"clock_out": "2018-06-08T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-08T03:00:00.000Z",
+		"created_at": "2018-06-07T20:00:00.000Z"
+	}, {
+		"id": "c984e5d4-6be5-425c-bfcd-938f5634a1a9",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-08T20:00:00.000Z",
+		"clock_out": "2018-06-09T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-09T03:00:00.000Z",
+		"created_at": "2018-06-08T20:00:00.000Z"
+	}, {
+		"id": "595315f6-7b56-4df8-a093-09470cf70ac5",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-09T20:00:00.000Z",
+		"clock_out": "2018-06-10T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-10T03:00:00.000Z",
+		"created_at": "2018-06-09T20:00:00.000Z"
+	}, {
+		"id": "cb3370e7-c77d-4786-ab73-12e53ba39c04",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-10T20:00:00.000Z",
+		"clock_out": "2018-06-11T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-11T03:00:00.000Z",
+		"created_at": "2018-06-10T20:00:00.000Z"
+	}, {
+		"id": "0fd20b72-f1ae-4529-a2a9-ec0cc3f43f95",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-11T20:00:00.000Z",
+		"clock_out": "2018-06-12T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-12T03:00:00.000Z",
+		"created_at": "2018-06-11T20:00:00.000Z"
+	}, {
+		"id": "3358c508-fe47-4c8b-ad52-6cdbf01b6e84",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-12T20:00:00.000Z",
+		"clock_out": "2018-06-13T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-13T03:00:00.000Z",
+		"created_at": "2018-06-12T20:00:00.000Z"
+	}, {
+		"id": "a86ff9c2-8446-4b5d-8651-5991da1b5388",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-13T20:00:00.000Z",
+		"clock_out": "2018-06-14T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-14T03:00:00.000Z",
+		"created_at": "2018-06-13T20:00:00.000Z"
+	}, {
+		"id": "4c1d9760-5a27-4aa8-b426-bdfd32369cf2",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-14T20:00:00.000Z",
+		"clock_out": "2018-06-15T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-15T03:00:00.000Z",
+		"created_at": "2018-06-14T20:00:00.000Z"
+	}, {
+		"id": "48753982-fe7f-42c0-b5c9-15c45c52323f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-15T20:00:00.000Z",
+		"clock_out": "2018-06-16T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-16T03:00:00.000Z",
+		"created_at": "2018-06-15T20:00:00.000Z"
+	}, {
+		"id": "a9fa2a6d-d7e8-4c65-a479-3cf5df6e76c6",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-16T20:00:00.000Z",
+		"clock_out": "2018-06-17T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-17T03:00:00.000Z",
+		"created_at": "2018-06-16T20:00:00.000Z"
+	}, {
+		"id": "638e9af0-7560-40e4-a7c3-d8108b2199ad",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-17T20:00:00.000Z",
+		"clock_out": "2018-06-18T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-18T03:00:00.000Z",
+		"created_at": "2018-06-17T20:00:00.000Z"
+	}, {
+		"id": "a3eaf0dd-8c64-481f-b4a8-652aba45539e",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-18T20:00:00.000Z",
+		"clock_out": "2018-06-19T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-19T03:00:00.000Z",
+		"created_at": "2018-06-18T20:00:00.000Z"
+	}, {
+		"id": "23bd55fb-9101-4bfc-8442-d0b231ad915a",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-19T20:00:00.000Z",
+		"clock_out": "2018-06-20T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-20T03:00:00.000Z",
+		"created_at": "2018-06-19T20:00:00.000Z"
+	}, {
+		"id": "c6a6d7b4-ebcd-409a-a562-e01a2ac0c203",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-20T20:00:00.000Z",
+		"clock_out": "2018-06-21T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-21T03:00:00.000Z",
+		"created_at": "2018-06-20T20:00:00.000Z"
+	}, {
+		"id": "59527a12-efd9-48ad-9e18-301f3f3b2c79",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-21T20:00:00.000Z",
+		"clock_out": "2018-06-22T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-22T03:00:00.000Z",
+		"created_at": "2018-06-21T20:00:00.000Z"
+	}, {
+		"id": "e73b1512-0554-423f-9cf9-914c45cfc43d",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-22T20:00:00.000Z",
+		"clock_out": "2018-06-23T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-23T03:00:00.000Z",
+		"created_at": "2018-06-22T20:00:00.000Z"
+	}, {
+		"id": "2efa3059-3c00-4134-b33a-79d234ae8221",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-23T20:00:00.000Z",
+		"clock_out": "2018-06-24T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-24T03:00:00.000Z",
+		"created_at": "2018-06-23T20:00:00.000Z"
+	}, {
+		"id": "0a03f588-7ff9-4d31-9810-34962fbfc86c",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-24T20:00:00.000Z",
+		"clock_out": "2018-06-25T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-25T03:00:00.000Z",
+		"created_at": "2018-06-24T20:00:00.000Z"
+	}, {
+		"id": "59800dd8-0082-4a48-b3e9-6e88a5a7aeb3",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-25T20:00:00.000Z",
+		"clock_out": "2018-06-26T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-26T03:00:00.000Z",
+		"created_at": "2018-06-25T20:00:00.000Z"
+	}, {
+		"id": "8215dea7-f32b-4ea6-9579-2064cf3d3c43",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-26T20:00:00.000Z",
+		"clock_out": "2018-06-27T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-27T03:00:00.000Z",
+		"created_at": "2018-06-26T20:00:00.000Z"
+	}, {
+		"id": "386c91b4-0523-4e39-bbc6-a7038a706cd2",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-27T20:00:00.000Z",
+		"clock_out": "2018-06-28T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-28T03:00:00.000Z",
+		"created_at": "2018-06-27T20:00:00.000Z"
+	}, {
+		"id": "96f5d12e-ed36-4fb8-8da6-fca54106bd4a",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-28T20:00:00.000Z",
+		"clock_out": "2018-06-29T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-29T03:00:00.000Z",
+		"created_at": "2018-06-28T20:00:00.000Z"
+	}, {
+		"id": "1d5ae16c-d6fd-4a0c-880c-f5853234495a",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-29T20:00:00.000Z",
+		"clock_out": "2018-06-30T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-06-30T03:00:00.000Z",
+		"created_at": "2018-06-29T20:00:00.000Z"
+	}, {
+		"id": "007f05f3-4d40-4823-8d16-6bc1abce4214",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-06-30T20:00:00.000Z",
+		"clock_out": "2018-07-01T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-01T03:00:00.000Z",
+		"created_at": "2018-06-30T20:00:00.000Z"
+	}, {
+		"id": "56c9854e-7ee6-4731-8b4b-0a313ab58524",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-01T20:00:00.000Z",
+		"clock_out": "2018-07-02T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-02T03:00:00.000Z",
+		"created_at": "2018-07-01T20:00:00.000Z"
+	}, {
+		"id": "b0faa4f5-355f-49c8-b239-6b5ff0ff09e3",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-02T20:00:00.000Z",
+		"clock_out": "2018-07-03T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-03T03:00:00.000Z",
+		"created_at": "2018-07-02T20:00:00.000Z"
+	}, {
+		"id": "7c805e68-9cdf-4e40-b38b-4cc153e7f1bf",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-03T20:00:00.000Z",
+		"clock_out": "2018-07-04T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-04T03:00:00.000Z",
+		"created_at": "2018-07-03T20:00:00.000Z"
+	}, {
+		"id": "ccd0da64-d403-4446-b54f-7598ed01954e",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-04T20:00:00.000Z",
+		"clock_out": "2018-07-05T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-05T03:00:00.000Z",
+		"created_at": "2018-07-04T20:00:00.000Z"
+	}, {
+		"id": "381c7c6c-cbaf-4b39-923a-e14c02d1c66d",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-05T20:00:00.000Z",
+		"clock_out": "2018-07-06T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-06T03:00:00.000Z",
+		"created_at": "2018-07-05T20:00:00.000Z"
+	}, {
+		"id": "34a14851-b924-4d71-8066-85f7746954ac",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-06T20:00:00.000Z",
+		"clock_out": "2018-07-07T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-07T03:00:00.000Z",
+		"created_at": "2018-07-06T20:00:00.000Z"
+	}, {
+		"id": "95f2ccc1-33e6-488a-a108-4308395c16bc",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-07T20:00:00.000Z",
+		"clock_out": "2018-07-08T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-08T03:00:00.000Z",
+		"created_at": "2018-07-07T20:00:00.000Z"
+	}, {
+		"id": "2363ba75-e816-477f-9b79-be26bffd7bc0",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-08T20:00:00.000Z",
+		"clock_out": "2018-07-09T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-09T03:00:00.000Z",
+		"created_at": "2018-07-08T20:00:00.000Z"
+	}, {
+		"id": "d4380a6d-b47e-4238-96cc-dacfe35ecb78",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-09T20:00:00.000Z",
+		"clock_out": "2018-07-10T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-10T03:00:00.000Z",
+		"created_at": "2018-07-09T20:00:00.000Z"
+	}, {
+		"id": "7337e63f-fe82-41ca-a3f8-af08f440d498",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-10T20:00:00.000Z",
+		"clock_out": "2018-07-11T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-11T03:00:00.000Z",
+		"created_at": "2018-07-10T20:00:00.000Z"
+	}, {
+		"id": "1e6b2ceb-021c-41e1-95bf-73c55ec9884f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-11T20:00:00.000Z",
+		"clock_out": "2018-07-12T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-12T03:00:00.000Z",
+		"created_at": "2018-07-11T20:00:00.000Z"
+	}, {
+		"id": "86fcca75-872d-4b28-a3ab-1e96b95d1dc0",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-12T20:00:00.000Z",
+		"clock_out": "2018-07-13T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-13T03:00:00.000Z",
+		"created_at": "2018-07-12T20:00:00.000Z"
+	}, {
+		"id": "0eed323d-e4c7-41af-b05b-4986804eea45",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-13T20:00:00.000Z",
+		"clock_out": "2018-07-14T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-14T03:00:00.000Z",
+		"created_at": "2018-07-13T20:00:00.000Z"
+	}, {
+		"id": "32bb81b6-190d-4ecc-87b5-91471e7a963c",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-14T20:00:00.000Z",
+		"clock_out": "2018-07-15T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-15T03:00:00.000Z",
+		"created_at": "2018-07-14T20:00:00.000Z"
+	}, {
+		"id": "105020a1-fc64-4562-8b9d-ec744b509b00",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-15T20:00:00.000Z",
+		"clock_out": "2018-07-16T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-16T03:00:00.000Z",
+		"created_at": "2018-07-15T20:00:00.000Z"
+	}, {
+		"id": "8c8e641f-8182-4803-a9b1-f16a0e55f1b8",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-16T20:00:00.000Z",
+		"clock_out": "2018-07-17T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-17T03:00:00.000Z",
+		"created_at": "2018-07-16T20:00:00.000Z"
+	}, {
+		"id": "191ab171-acf9-4227-a73c-47bfc43e8fa4",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-17T20:00:00.000Z",
+		"clock_out": "2018-07-18T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-18T03:00:00.000Z",
+		"created_at": "2018-07-17T20:00:00.000Z"
+	}, {
+		"id": "9e47cdd1-4e45-4595-8800-d2bad1de36fb",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-18T20:00:00.000Z",
+		"clock_out": "2018-07-19T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-19T03:00:00.000Z",
+		"created_at": "2018-07-18T20:00:00.000Z"
+	}, {
+		"id": "fb1bcbb9-2926-4f1b-9e84-6d945c88331a",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-19T20:00:00.000Z",
+		"clock_out": "2018-07-20T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-20T03:00:00.000Z",
+		"created_at": "2018-07-19T20:00:00.000Z"
+	}, {
+		"id": "4e66ead3-e044-4510-a234-82ed9f09ba48",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-20T20:00:00.000Z",
+		"clock_out": "2018-07-21T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-21T03:00:00.000Z",
+		"created_at": "2018-07-20T20:00:00.000Z"
+	}, {
+		"id": "d9ff8edb-ed21-4a88-aaea-a51249caf1b5",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-21T20:00:00.000Z",
+		"clock_out": "2018-07-22T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-22T03:00:00.000Z",
+		"created_at": "2018-07-21T20:00:00.000Z"
+	}, {
+		"id": "6d8b981c-3bd6-4378-adf7-3439cc2d435a",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-22T20:00:00.000Z",
+		"clock_out": "2018-07-23T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-23T03:00:00.000Z",
+		"created_at": "2018-07-22T20:00:00.000Z"
+	}, {
+		"id": "873eb97f-3675-4886-9ee6-76b870a8b92e",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-23T20:00:00.000Z",
+		"clock_out": "2018-07-24T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-24T03:00:00.000Z",
+		"created_at": "2018-07-23T20:00:00.000Z"
+	}, {
+		"id": "dbd82670-1e67-4e66-a519-32e33f0d938b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-24T20:00:00.000Z",
+		"clock_out": "2018-07-25T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-25T03:00:00.000Z",
+		"created_at": "2018-07-24T20:00:00.000Z"
+	}, {
+		"id": "90458ce1-8c0e-41ce-92d1-d82cf75077e0",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-25T20:00:00.000Z",
+		"clock_out": "2018-07-26T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-26T03:00:00.000Z",
+		"created_at": "2018-07-25T20:00:00.000Z"
+	}, {
+		"id": "c89f76d2-1e26-426d-8537-132903a8908e",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-26T20:00:00.000Z",
+		"clock_out": "2018-07-27T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-27T03:00:00.000Z",
+		"created_at": "2018-07-26T20:00:00.000Z"
+	}, {
+		"id": "bf40513f-e6aa-4a13-ad76-547d7ec62c64",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-27T20:00:00.000Z",
+		"clock_out": "2018-07-28T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-28T03:00:00.000Z",
+		"created_at": "2018-07-27T20:00:00.000Z"
+	}, {
+		"id": "bbe3c015-badc-4755-8337-ccac911a6f68",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-28T20:00:00.000Z",
+		"clock_out": "2018-07-29T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-29T03:00:00.000Z",
+		"created_at": "2018-07-28T20:00:00.000Z"
+	}, {
+		"id": "2c794d15-a351-43e1-9d4e-df3914919033",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-29T20:00:00.000Z",
+		"clock_out": "2018-07-30T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-30T03:00:00.000Z",
+		"created_at": "2018-07-29T20:00:00.000Z"
+	}, {
+		"id": "a42417d4-017e-4ae3-bfc2-0df10ce78e86",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-30T20:00:00.000Z",
+		"clock_out": "2018-07-31T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-07-31T03:00:00.000Z",
+		"created_at": "2018-07-30T20:00:00.000Z"
+	}, {
+		"id": "2e369df6-18c3-4cb3-ad05-5451c10a2895",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "996639da-9c34-4c91-b6de-4200cb7b7d56",
+		"name": "Jon Fends",
+		"clock_in": "2018-07-31T20:00:00.000Z",
+		"clock_out": "2018-08-01T03:00:00.000Z",
+		"pay_rate": 14,
+		"updated_at": "2018-08-01T03:00:00.000Z",
+		"created_at": "2018-07-31T20:00:00.000Z"
+	}, {
+		"id": "a3f0c163-e635-4d77-9081-ae0ce17697f9",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-01T21:00:00.000Z",
+		"clock_out": "2018-05-02T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-02T04:00:00.000Z",
+		"created_at": "2018-05-01T21:00:00.000Z"
+	}, {
+		"id": "7df2a323-d721-43e4-a5bf-69229f30f4eb",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-02T21:00:00.000Z",
+		"clock_out": "2018-05-03T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-03T04:00:00.000Z",
+		"created_at": "2018-05-02T21:00:00.000Z"
+	}, {
+		"id": "40f1d93a-756c-4c5d-90e3-c30667a570cf",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-03T21:00:00.000Z",
+		"clock_out": "2018-05-04T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-04T04:00:00.000Z",
+		"created_at": "2018-05-03T21:00:00.000Z"
+	}, {
+		"id": "d958bc66-0461-4c8a-8daf-59d58c172024",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-04T21:00:00.000Z",
+		"clock_out": "2018-05-05T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-05T04:00:00.000Z",
+		"created_at": "2018-05-04T21:00:00.000Z"
+	}, {
+		"id": "61b2ed07-431d-448c-8147-0fa31196f511",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-05T21:00:00.000Z",
+		"clock_out": "2018-05-06T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-06T04:00:00.000Z",
+		"created_at": "2018-05-05T21:00:00.000Z"
+	}, {
+		"id": "2b830b42-8066-457f-90d9-b0d746481e72",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-06T21:00:00.000Z",
+		"clock_out": "2018-05-07T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-07T04:00:00.000Z",
+		"created_at": "2018-05-06T21:00:00.000Z"
+	}, {
+		"id": "ec4c5d8d-b058-400e-9c12-75020c9cc68b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-07T21:00:00.000Z",
+		"clock_out": "2018-05-08T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-08T04:00:00.000Z",
+		"created_at": "2018-05-07T21:00:00.000Z"
+	}, {
+		"id": "d3429c0f-cb44-4dca-ac32-e40b8a0ad570",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-08T21:00:00.000Z",
+		"clock_out": "2018-05-09T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-09T04:00:00.000Z",
+		"created_at": "2018-05-08T21:00:00.000Z"
+	}, {
+		"id": "7443ceb0-7f87-4a8b-b019-23c4e114f7a4",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-09T21:00:00.000Z",
+		"clock_out": "2018-05-10T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-10T04:00:00.000Z",
+		"created_at": "2018-05-09T21:00:00.000Z"
+	}, {
+		"id": "35da5d98-b5b3-4499-a52c-7246ba1ef466",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-10T21:00:00.000Z",
+		"clock_out": "2018-05-11T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-11T04:00:00.000Z",
+		"created_at": "2018-05-10T21:00:00.000Z"
+	}, {
+		"id": "c97fac4a-97b2-43ef-b1c6-f4ecf4265ca1",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-11T21:00:00.000Z",
+		"clock_out": "2018-05-12T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-12T04:00:00.000Z",
+		"created_at": "2018-05-11T21:00:00.000Z"
+	}, {
+		"id": "cd03242d-33de-4b51-b8eb-0c6383469d11",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-12T21:00:00.000Z",
+		"clock_out": "2018-05-13T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-13T04:00:00.000Z",
+		"created_at": "2018-05-12T21:00:00.000Z"
+	}, {
+		"id": "07308a3c-77a7-4131-8360-e6ef892098af",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-13T21:00:00.000Z",
+		"clock_out": "2018-05-14T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-14T04:00:00.000Z",
+		"created_at": "2018-05-13T21:00:00.000Z"
+	}, {
+		"id": "23a9c6fe-00b3-4c98-b70f-f57e18993096",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-14T21:00:00.000Z",
+		"clock_out": "2018-05-15T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-15T04:00:00.000Z",
+		"created_at": "2018-05-14T21:00:00.000Z"
+	}, {
+		"id": "194238a3-d002-4c00-b49c-add6dae1f330",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-15T21:00:00.000Z",
+		"clock_out": "2018-05-16T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-16T04:00:00.000Z",
+		"created_at": "2018-05-15T21:00:00.000Z"
+	}, {
+		"id": "b1eedec9-50f0-49b6-81b8-77bfee8f51f5",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-16T21:00:00.000Z",
+		"clock_out": "2018-05-17T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-17T04:00:00.000Z",
+		"created_at": "2018-05-16T21:00:00.000Z"
+	}, {
+		"id": "83d5a939-2ca5-4267-8ba6-dd013d154ec6",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-17T21:00:00.000Z",
+		"clock_out": "2018-05-18T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-18T04:00:00.000Z",
+		"created_at": "2018-05-17T21:00:00.000Z"
+	}, {
+		"id": "0122165a-5adb-4a44-8406-10522a8863f3",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-18T21:00:00.000Z",
+		"clock_out": "2018-05-19T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-19T04:00:00.000Z",
+		"created_at": "2018-05-18T21:00:00.000Z"
+	}, {
+		"id": "d134061b-0fb2-4649-a884-9a815ae4a136",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-19T21:00:00.000Z",
+		"clock_out": "2018-05-20T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-20T04:00:00.000Z",
+		"created_at": "2018-05-19T21:00:00.000Z"
+	}, {
+		"id": "47049442-4486-4a3f-8fe5-27058fb848d5",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-20T21:00:00.000Z",
+		"clock_out": "2018-05-21T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-21T04:00:00.000Z",
+		"created_at": "2018-05-20T21:00:00.000Z"
+	}, {
+		"id": "1555ac11-3bd5-4ddd-b1b2-613abbef3274",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-21T21:00:00.000Z",
+		"clock_out": "2018-05-22T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-22T04:00:00.000Z",
+		"created_at": "2018-05-21T21:00:00.000Z"
+	}, {
+		"id": "562cf205-e382-4772-9409-f57f7d2c01c2",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-22T21:00:00.000Z",
+		"clock_out": "2018-05-23T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-23T04:00:00.000Z",
+		"created_at": "2018-05-22T21:00:00.000Z"
+	}, {
+		"id": "297222b2-9035-4253-bd68-2c01a3dff17b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-23T21:00:00.000Z",
+		"clock_out": "2018-05-24T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-24T04:00:00.000Z",
+		"created_at": "2018-05-23T21:00:00.000Z"
+	}, {
+		"id": "a706bccf-f865-4baa-8223-a56052062bc6",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-24T21:00:00.000Z",
+		"clock_out": "2018-05-25T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-25T04:00:00.000Z",
+		"created_at": "2018-05-24T21:00:00.000Z"
+	}, {
+		"id": "8c14d12e-ced0-45b4-abfa-0238d016aa8b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-25T21:00:00.000Z",
+		"clock_out": "2018-05-26T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-26T04:00:00.000Z",
+		"created_at": "2018-05-25T21:00:00.000Z"
+	}, {
+		"id": "ebc88b35-d4cd-438b-b57a-6c92d534647f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-26T21:00:00.000Z",
+		"clock_out": "2018-05-27T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-27T04:00:00.000Z",
+		"created_at": "2018-05-26T21:00:00.000Z"
+	}, {
+		"id": "f1f54bcd-8c97-4cca-ad67-627f968dca87",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-27T21:00:00.000Z",
+		"clock_out": "2018-05-28T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-28T04:00:00.000Z",
+		"created_at": "2018-05-27T21:00:00.000Z"
+	}, {
+		"id": "993c5aa5-1904-4e42-a08f-0b399a234177",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-28T21:00:00.000Z",
+		"clock_out": "2018-05-29T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-29T04:00:00.000Z",
+		"created_at": "2018-05-28T21:00:00.000Z"
+	}, {
+		"id": "5fa69670-d3e7-49fb-b2d7-520f6a749531",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-29T21:00:00.000Z",
+		"clock_out": "2018-05-30T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-30T04:00:00.000Z",
+		"created_at": "2018-05-29T21:00:00.000Z"
+	}, {
+		"id": "684e04c2-1e4a-431f-9e48-1cb2cf6252ce",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-30T21:00:00.000Z",
+		"clock_out": "2018-05-31T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-05-31T04:00:00.000Z",
+		"created_at": "2018-05-30T21:00:00.000Z"
+	}, {
+		"id": "f73c1406-681c-4099-afd4-b42c0f751eec",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-05-31T21:00:00.000Z",
+		"clock_out": "2018-06-01T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-06-01T04:00:00.000Z",
+		"created_at": "2018-05-31T21:00:00.000Z"
+	}, {
+		"id": "f14ea4af-ca83-4e87-ac2a-dcb9bbf2e803",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"employee_id": "da3a7214-631a-4591-b592-762574d5d7e4",
+		"name": "Jamey Burr",
+		"clock_in": "2018-06-01T21:00:00.000Z",
+		"clock_out": "2018-06-02T04:00:00.000Z",
+		"pay_rate": 13,
+		"updated_at": "2018-06-02T04:00:00.000Z",
+		"created_at": "2018-06-01T21:00:00.000Z"
+	}, {
+		"id": "1042a47d-9f84-47cd-b1de-8e2f7fafc3ac",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-04T13:00:00.000Z",
+		"clock_out": "2018-07-04T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-04T21:00:00.000Z",
+		"created_at": "2018-07-04T13:00:00.000Z"
+	}, {
+		"id": "9cee3bb4-bc43-476d-8f48-441592c42b87",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-05T13:00:00.000Z",
+		"clock_out": "2018-07-05T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-05T21:00:00.000Z",
+		"created_at": "2018-07-05T13:00:00.000Z"
+	}, {
+		"id": "3c484078-e6ff-462b-85b6-32c73687fc00",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-06T13:00:00.000Z",
+		"clock_out": "2018-07-06T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-06T21:00:00.000Z",
+		"created_at": "2018-07-06T13:00:00.000Z"
+	}, {
+		"id": "baf5940f-93ac-4b41-a774-3f5a80258135",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-07T13:00:00.000Z",
+		"clock_out": "2018-07-07T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-07T21:00:00.000Z",
+		"created_at": "2018-07-07T13:00:00.000Z"
+	}, {
+		"id": "47563b2d-2107-42be-929b-770363e7a789",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-08T13:00:00.000Z",
+		"clock_out": "2018-07-08T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-08T21:00:00.000Z",
+		"created_at": "2018-07-08T13:00:00.000Z"
+	}, {
+		"id": "553b3c00-443d-482a-a546-09da8ab6ac95",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-09T13:00:00.000Z",
+		"clock_out": "2018-07-09T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-09T21:00:00.000Z",
+		"created_at": "2018-07-09T13:00:00.000Z"
+	}, {
+		"id": "245dab4a-a0ef-4b29-8466-3638c67c8443",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-10T13:00:00.000Z",
+		"clock_out": "2018-07-10T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-10T21:00:00.000Z",
+		"created_at": "2018-07-10T13:00:00.000Z"
+	}, {
+		"id": "5441efe3-0ee7-44f4-a226-9d84301dba8f",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-11T13:00:00.000Z",
+		"clock_out": "2018-07-11T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-11T21:00:00.000Z",
+		"created_at": "2018-07-11T13:00:00.000Z"
+	}, {
+		"id": "108a1118-e5b6-44ca-904a-c96ceff74e3b",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-12T13:00:00.000Z",
+		"clock_out": "2018-07-12T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-12T21:00:00.000Z",
+		"created_at": "2018-07-12T13:00:00.000Z"
+	}, {
+		"id": "45a22e41-45e1-4e4f-84f3-8ea0b1de8749",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-13T13:00:00.000Z",
+		"clock_out": "2018-07-13T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-13T21:00:00.000Z",
+		"created_at": "2018-07-13T13:00:00.000Z"
+	}, {
+		"id": "9bcbc2cf-fee8-49f0-9731-7c74054072db",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-14T13:00:00.000Z",
+		"clock_out": "2018-07-14T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-14T21:00:00.000Z",
+		"created_at": "2018-07-14T13:00:00.000Z"
+	}, {
+		"id": "f9a8bd21-b3f9-4d69-b374-1b55e80a01d1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-15T13:00:00.000Z",
+		"clock_out": "2018-07-15T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-15T21:00:00.000Z",
+		"created_at": "2018-07-15T13:00:00.000Z"
+	}, {
+		"id": "919e90a0-24c0-4de6-97f9-43f9264bf4d7",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-16T13:00:00.000Z",
+		"clock_out": "2018-07-16T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-16T21:00:00.000Z",
+		"created_at": "2018-07-16T13:00:00.000Z"
+	}, {
+		"id": "115c8921-3350-481c-9bd6-594cc115deac",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-17T13:00:00.000Z",
+		"clock_out": "2018-07-17T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-17T21:00:00.000Z",
+		"created_at": "2018-07-17T13:00:00.000Z"
+	}, {
+		"id": "40001d3b-67ec-41b2-8487-3037ccef98b6",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-18T13:00:00.000Z",
+		"clock_out": "2018-07-18T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-18T21:00:00.000Z",
+		"created_at": "2018-07-18T13:00:00.000Z"
+	}, {
+		"id": "170117c6-4a6f-4a55-8752-e012135e9e9d",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-19T13:00:00.000Z",
+		"clock_out": "2018-07-19T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-19T21:00:00.000Z",
+		"created_at": "2018-07-19T13:00:00.000Z"
+	}, {
+		"id": "60d4910c-da9a-433b-972c-ff3bcceb9ad9",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-20T13:00:00.000Z",
+		"clock_out": "2018-07-20T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-20T21:00:00.000Z",
+		"created_at": "2018-07-20T13:00:00.000Z"
+	}, {
+		"id": "fecfea94-e838-4acf-85c0-0462b3356b9f",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-21T13:00:00.000Z",
+		"clock_out": "2018-07-21T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-21T21:00:00.000Z",
+		"created_at": "2018-07-21T13:00:00.000Z"
+	}, {
+		"id": "c2772766-fa11-4704-8b3f-2b365b7d1338",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-22T13:00:00.000Z",
+		"clock_out": "2018-07-22T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-22T21:00:00.000Z",
+		"created_at": "2018-07-22T13:00:00.000Z"
+	}, {
+		"id": "6ede57f4-0e89-430e-847c-a80a8f919683",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-23T13:00:00.000Z",
+		"clock_out": "2018-07-23T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-23T21:00:00.000Z",
+		"created_at": "2018-07-23T13:00:00.000Z"
+	}, {
+		"id": "3d292c78-e7cf-4b5e-a1ce-27a55855d6be",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-24T13:00:00.000Z",
+		"clock_out": "2018-07-24T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-24T21:00:00.000Z",
+		"created_at": "2018-07-24T13:00:00.000Z"
+	}, {
+		"id": "90676043-577c-49d7-935e-cc43b9bd8554",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-25T13:00:00.000Z",
+		"clock_out": "2018-07-25T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-25T21:00:00.000Z",
+		"created_at": "2018-07-25T13:00:00.000Z"
+	}, {
+		"id": "153aa020-3cdf-407f-b6e1-ec4f509f0fa7",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-26T13:00:00.000Z",
+		"clock_out": "2018-07-26T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-26T21:00:00.000Z",
+		"created_at": "2018-07-26T13:00:00.000Z"
+	}, {
+		"id": "29ad19af-0f2f-4552-8982-fd4ca274a7d4",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-27T13:00:00.000Z",
+		"clock_out": "2018-07-27T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-27T21:00:00.000Z",
+		"created_at": "2018-07-27T13:00:00.000Z"
+	}, {
+		"id": "b9cf69f8-7061-4261-af8c-fea9f7866a33",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-28T13:00:00.000Z",
+		"clock_out": "2018-07-28T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-28T21:00:00.000Z",
+		"created_at": "2018-07-28T13:00:00.000Z"
+	}, {
+		"id": "fecbc8f5-319c-49c4-9433-ca201ae747f5",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-29T13:00:00.000Z",
+		"clock_out": "2018-07-29T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-29T21:00:00.000Z",
+		"created_at": "2018-07-29T13:00:00.000Z"
+	}, {
+		"id": "01754e4c-2edd-495d-8f9b-2dbf2b7f8761",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-30T13:00:00.000Z",
+		"clock_out": "2018-07-30T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-30T21:00:00.000Z",
+		"created_at": "2018-07-30T13:00:00.000Z"
+	}, {
+		"id": "c8bb32ba-59c0-431a-8abd-e65236108951",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "b63d9159-b2f9-4fd0-bb53-5dfeaee89e85",
+		"name": "Andy Bolden",
+		"clock_in": "2018-07-31T13:00:00.000Z",
+		"clock_out": "2018-07-31T21:00:00.000Z",
+		"pay_rate": 11,
+		"updated_at": "2018-07-31T21:00:00.000Z",
+		"created_at": "2018-07-31T13:00:00.000Z"
+	}, {
+		"id": "855e1b11-8f5b-4562-b4ac-df9b3b77ea60",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-18T13:00:00.000Z",
+		"clock_out": "2018-06-18T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-18T21:00:00.000Z",
+		"created_at": "2018-06-18T13:00:00.000Z"
+	}, {
+		"id": "e31fd330-b170-4ce9-990e-8782e9a9d805",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-19T13:00:00.000Z",
+		"clock_out": "2018-06-19T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-19T21:00:00.000Z",
+		"created_at": "2018-06-19T13:00:00.000Z"
+	}, {
+		"id": "4f57b158-3c52-4b80-ae89-5603c024b7b2",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-20T13:00:00.000Z",
+		"clock_out": "2018-06-20T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-20T21:00:00.000Z",
+		"created_at": "2018-06-20T13:00:00.000Z"
+	}, {
+		"id": "8029f4f1-7e42-4742-8b01-5e5d441b9c6b",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-21T13:00:00.000Z",
+		"clock_out": "2018-06-21T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-21T21:00:00.000Z",
+		"created_at": "2018-06-21T13:00:00.000Z"
+	}, {
+		"id": "c588889c-a9f9-4e9d-b022-925cf1336923",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-22T13:00:00.000Z",
+		"clock_out": "2018-06-22T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-22T21:00:00.000Z",
+		"created_at": "2018-06-22T13:00:00.000Z"
+	}, {
+		"id": "42793630-1f72-4556-b49e-b379c21b34b7",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-23T13:00:00.000Z",
+		"clock_out": "2018-06-23T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-23T21:00:00.000Z",
+		"created_at": "2018-06-23T13:00:00.000Z"
+	}, {
+		"id": "7bc83173-3817-444b-9d7c-210a0bf0fdb1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-24T13:00:00.000Z",
+		"clock_out": "2018-06-24T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-24T21:00:00.000Z",
+		"created_at": "2018-06-24T13:00:00.000Z"
+	}, {
+		"id": "896e31ba-30af-4317-ac11-0302a3e7c9a9",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-25T13:00:00.000Z",
+		"clock_out": "2018-06-25T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-25T21:00:00.000Z",
+		"created_at": "2018-06-25T13:00:00.000Z"
+	}, {
+		"id": "066aa5ac-6af2-4e05-a5e8-138574fc0ed4",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-26T13:00:00.000Z",
+		"clock_out": "2018-06-26T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-26T21:00:00.000Z",
+		"created_at": "2018-06-26T13:00:00.000Z"
+	}, {
+		"id": "16a5d1b1-b60e-4fe1-a536-9536c21ada71",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-27T13:00:00.000Z",
+		"clock_out": "2018-06-27T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-27T21:00:00.000Z",
+		"created_at": "2018-06-27T13:00:00.000Z"
+	}, {
+		"id": "de2b14e9-4be6-4df3-91ef-b4ae41d1c0a0",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-28T13:00:00.000Z",
+		"clock_out": "2018-06-28T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-28T21:00:00.000Z",
+		"created_at": "2018-06-28T13:00:00.000Z"
+	}, {
+		"id": "386bb383-4fea-44e4-8e8b-e24ccae119fd",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-29T13:00:00.000Z",
+		"clock_out": "2018-06-29T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-29T21:00:00.000Z",
+		"created_at": "2018-06-29T13:00:00.000Z"
+	}, {
+		"id": "d2e644c0-8120-4a08-a117-bbe4b51a06af",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-06-30T13:00:00.000Z",
+		"clock_out": "2018-06-30T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-06-30T21:00:00.000Z",
+		"created_at": "2018-06-30T13:00:00.000Z"
+	}, {
+		"id": "a419a584-9869-4868-8306-36fcd8fcdb79",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-01T13:00:00.000Z",
+		"clock_out": "2018-07-01T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-01T21:00:00.000Z",
+		"created_at": "2018-07-01T13:00:00.000Z"
+	}, {
+		"id": "e54f4801-6cb3-4a3c-943f-ef8b848b85aa",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-02T13:00:00.000Z",
+		"clock_out": "2018-07-02T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-02T21:00:00.000Z",
+		"created_at": "2018-07-02T13:00:00.000Z"
+	}, {
+		"id": "581cbd51-81ab-4794-9d7d-b2f83aaafce9",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-03T13:00:00.000Z",
+		"clock_out": "2018-07-03T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-03T21:00:00.000Z",
+		"created_at": "2018-07-03T13:00:00.000Z"
+	}, {
+		"id": "d63301d1-fb87-486f-9c72-ba67fa3bf8bd",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-04T13:00:00.000Z",
+		"clock_out": "2018-07-04T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-04T21:00:00.000Z",
+		"created_at": "2018-07-04T13:00:00.000Z"
+	}, {
+		"id": "5ff63fd9-e521-4148-8fea-f7c4323b8d4e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-05T13:00:00.000Z",
+		"clock_out": "2018-07-05T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-05T21:00:00.000Z",
+		"created_at": "2018-07-05T13:00:00.000Z"
+	}, {
+		"id": "ea742c30-8bb0-40b9-aeed-dfbbc95a4fac",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-06T13:00:00.000Z",
+		"clock_out": "2018-07-06T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-06T21:00:00.000Z",
+		"created_at": "2018-07-06T13:00:00.000Z"
+	}, {
+		"id": "9a6f031d-a0a1-44d6-98e2-87df766285aa",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-07T13:00:00.000Z",
+		"clock_out": "2018-07-07T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-07T21:00:00.000Z",
+		"created_at": "2018-07-07T13:00:00.000Z"
+	}, {
+		"id": "12c985dd-dedc-449d-8c3f-54e18aa94ec1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-08T13:00:00.000Z",
+		"clock_out": "2018-07-08T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-08T21:00:00.000Z",
+		"created_at": "2018-07-08T13:00:00.000Z"
+	}, {
+		"id": "3c527903-ba45-432c-9fcd-e62de3261dc2",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-09T13:00:00.000Z",
+		"clock_out": "2018-07-09T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-09T21:00:00.000Z",
+		"created_at": "2018-07-09T13:00:00.000Z"
+	}, {
+		"id": "d590a200-0b76-409a-a546-bd0012797a49",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-10T13:00:00.000Z",
+		"clock_out": "2018-07-10T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-10T21:00:00.000Z",
+		"created_at": "2018-07-10T13:00:00.000Z"
+	}, {
+		"id": "6f871b41-fa8b-4933-aa7a-6195d445f365",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-11T13:00:00.000Z",
+		"clock_out": "2018-07-11T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-11T21:00:00.000Z",
+		"created_at": "2018-07-11T13:00:00.000Z"
+	}, {
+		"id": "119c1c1a-3fd2-4ad9-b703-c22835f2180b",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-12T13:00:00.000Z",
+		"clock_out": "2018-07-12T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-12T21:00:00.000Z",
+		"created_at": "2018-07-12T13:00:00.000Z"
+	}, {
+		"id": "630f3858-e399-4924-a184-43f00a17bd66",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-13T13:00:00.000Z",
+		"clock_out": "2018-07-13T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-13T21:00:00.000Z",
+		"created_at": "2018-07-13T13:00:00.000Z"
+	}, {
+		"id": "f0034ffc-2267-4c34-bc5e-5b181169bfd1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-14T13:00:00.000Z",
+		"clock_out": "2018-07-14T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-14T21:00:00.000Z",
+		"created_at": "2018-07-14T13:00:00.000Z"
+	}, {
+		"id": "4993671e-33d2-4fe2-afb9-84dd170b7003",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-15T13:00:00.000Z",
+		"clock_out": "2018-07-15T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-15T21:00:00.000Z",
+		"created_at": "2018-07-15T13:00:00.000Z"
+	}, {
+		"id": "d56dc900-7fa2-45b1-a367-7807a93dd05e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-16T13:00:00.000Z",
+		"clock_out": "2018-07-16T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-16T21:00:00.000Z",
+		"created_at": "2018-07-16T13:00:00.000Z"
+	}, {
+		"id": "b09f035c-b0c1-40a4-970f-57950432fdee",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-17T13:00:00.000Z",
+		"clock_out": "2018-07-17T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-17T21:00:00.000Z",
+		"created_at": "2018-07-17T13:00:00.000Z"
+	}, {
+		"id": "cccb27eb-b35c-474b-8ec8-acc988ac8554",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-18T13:00:00.000Z",
+		"clock_out": "2018-07-18T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-18T21:00:00.000Z",
+		"created_at": "2018-07-18T13:00:00.000Z"
+	}, {
+		"id": "d84a5799-301e-47d3-b70d-c245a6fd5153",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-19T13:00:00.000Z",
+		"clock_out": "2018-07-19T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-19T21:00:00.000Z",
+		"created_at": "2018-07-19T13:00:00.000Z"
+	}, {
+		"id": "7e70dd4b-d3d2-4fd7-8ef1-530923a18b31",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-20T13:00:00.000Z",
+		"clock_out": "2018-07-20T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-20T21:00:00.000Z",
+		"created_at": "2018-07-20T13:00:00.000Z"
+	}, {
+		"id": "61ce0dd2-d55f-41cc-ab4a-3ed3c0d61bfb",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-21T13:00:00.000Z",
+		"clock_out": "2018-07-21T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-21T21:00:00.000Z",
+		"created_at": "2018-07-21T13:00:00.000Z"
+	}, {
+		"id": "ba51460e-207b-4c1f-972e-4e1a73c1613c",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-22T13:00:00.000Z",
+		"clock_out": "2018-07-22T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-22T21:00:00.000Z",
+		"created_at": "2018-07-22T13:00:00.000Z"
+	}, {
+		"id": "0b8116a6-6a62-4bdb-832d-37b0970c7553",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-23T13:00:00.000Z",
+		"clock_out": "2018-07-23T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-23T21:00:00.000Z",
+		"created_at": "2018-07-23T13:00:00.000Z"
+	}, {
+		"id": "22b6f96d-72be-4705-9a44-64b170c05e36",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-24T13:00:00.000Z",
+		"clock_out": "2018-07-24T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-24T21:00:00.000Z",
+		"created_at": "2018-07-24T13:00:00.000Z"
+	}, {
+		"id": "43266a97-a01a-412c-b147-63352c2b8b4e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-25T13:00:00.000Z",
+		"clock_out": "2018-07-25T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-25T21:00:00.000Z",
+		"created_at": "2018-07-25T13:00:00.000Z"
+	}, {
+		"id": "1b5a7271-5ee3-4f13-9125-290756177bf1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-26T13:00:00.000Z",
+		"clock_out": "2018-07-26T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-26T21:00:00.000Z",
+		"created_at": "2018-07-26T13:00:00.000Z"
+	}, {
+		"id": "9f2302d1-16b2-4fcc-a1b7-54cf1c53589e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-27T13:00:00.000Z",
+		"clock_out": "2018-07-27T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-27T21:00:00.000Z",
+		"created_at": "2018-07-27T13:00:00.000Z"
+	}, {
+		"id": "48132c4d-7691-4222-8072-a53dca5ba0db",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-28T13:00:00.000Z",
+		"clock_out": "2018-07-28T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-28T21:00:00.000Z",
+		"created_at": "2018-07-28T13:00:00.000Z"
+	}, {
+		"id": "974ce2b4-4110-401d-bd84-bee129926f11",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-29T13:00:00.000Z",
+		"clock_out": "2018-07-29T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-29T21:00:00.000Z",
+		"created_at": "2018-07-29T13:00:00.000Z"
+	}, {
+		"id": "852cdca3-fe51-4967-a74c-c95e31828a46",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-30T13:00:00.000Z",
+		"clock_out": "2018-07-30T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-30T21:00:00.000Z",
+		"created_at": "2018-07-30T13:00:00.000Z"
+	}, {
+		"id": "bee92e87-fbd5-4ab0-95fc-b109e477eb75",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "c6981ace-81d9-4ae0-b8f7-80d4d28caf20",
+		"name": "Casey Dondel",
+		"clock_in": "2018-07-31T13:00:00.000Z",
+		"clock_out": "2018-07-31T21:00:00.000Z",
+		"pay_rate": 10,
+		"updated_at": "2018-07-31T21:00:00.000Z",
+		"created_at": "2018-07-31T13:00:00.000Z"
+	}, {
+		"id": "185cd565-e90c-4e05-aad5-9b29a4119113",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-01T13:00:00.000Z",
+		"clock_out": "2018-05-01T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-01T21:00:00.000Z",
+		"created_at": "2018-05-01T13:00:00.000Z"
+	}, {
+		"id": "4bbb9dbf-c51f-4c83-89a9-b16b2295e017",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-02T13:00:00.000Z",
+		"clock_out": "2018-05-02T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-02T21:00:00.000Z",
+		"created_at": "2018-05-02T13:00:00.000Z"
+	}, {
+		"id": "dfe12a8d-b2fe-4726-a196-3e2381280450",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-03T13:00:00.000Z",
+		"clock_out": "2018-05-03T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-03T21:00:00.000Z",
+		"created_at": "2018-05-03T13:00:00.000Z"
+	}, {
+		"id": "75ac8f4e-3c37-4fb4-9935-9a630ffcfd37",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-04T13:00:00.000Z",
+		"clock_out": "2018-05-04T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-04T21:00:00.000Z",
+		"created_at": "2018-05-04T13:00:00.000Z"
+	}, {
+		"id": "e525305a-39bc-4be1-84b6-90fb21c923cf",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-05T13:00:00.000Z",
+		"clock_out": "2018-05-05T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-05T21:00:00.000Z",
+		"created_at": "2018-05-05T13:00:00.000Z"
+	}, {
+		"id": "5b41ee59-74dc-4a23-b8c5-8975167f75b0",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-06T13:00:00.000Z",
+		"clock_out": "2018-05-06T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-06T21:00:00.000Z",
+		"created_at": "2018-05-06T13:00:00.000Z"
+	}, {
+		"id": "492345ab-9e16-4680-bb3c-1d206c0e4887",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-07T13:00:00.000Z",
+		"clock_out": "2018-05-07T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-07T21:00:00.000Z",
+		"created_at": "2018-05-07T13:00:00.000Z"
+	}, {
+		"id": "a5369a2d-310b-4f33-bedb-95ae033574e0",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-08T13:00:00.000Z",
+		"clock_out": "2018-05-08T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-08T21:00:00.000Z",
+		"created_at": "2018-05-08T13:00:00.000Z"
+	}, {
+		"id": "93d6b62c-a8ce-48f8-adfd-81e2debf0e3d",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-09T13:00:00.000Z",
+		"clock_out": "2018-05-09T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-09T21:00:00.000Z",
+		"created_at": "2018-05-09T13:00:00.000Z"
+	}, {
+		"id": "f522408e-a7fd-4f90-9cf9-96093b0b0d7e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-10T13:00:00.000Z",
+		"clock_out": "2018-05-10T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-10T21:00:00.000Z",
+		"created_at": "2018-05-10T13:00:00.000Z"
+	}, {
+		"id": "30da22aa-0d55-4da9-b1a0-a34d7e2308ca",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-11T13:00:00.000Z",
+		"clock_out": "2018-05-11T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-11T21:00:00.000Z",
+		"created_at": "2018-05-11T13:00:00.000Z"
+	}, {
+		"id": "dcd9a895-2513-4020-9222-00f11e27441a",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-12T13:00:00.000Z",
+		"clock_out": "2018-05-12T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-12T21:00:00.000Z",
+		"created_at": "2018-05-12T13:00:00.000Z"
+	}, {
+		"id": "28aa035d-a1ee-4d58-a929-ef925c4082c3",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-13T13:00:00.000Z",
+		"clock_out": "2018-05-13T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-13T21:00:00.000Z",
+		"created_at": "2018-05-13T13:00:00.000Z"
+	}, {
+		"id": "add2fa27-9eb1-4fbb-bd78-cdb909232643",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-14T13:00:00.000Z",
+		"clock_out": "2018-05-14T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-14T21:00:00.000Z",
+		"created_at": "2018-05-14T13:00:00.000Z"
+	}, {
+		"id": "6a542e12-f486-4ac2-965f-f60661b471d8",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-15T13:00:00.000Z",
+		"clock_out": "2018-05-15T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-15T21:00:00.000Z",
+		"created_at": "2018-05-15T13:00:00.000Z"
+	}, {
+		"id": "788816d9-6121-4ded-b987-aff37bfd5e06",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-16T13:00:00.000Z",
+		"clock_out": "2018-05-16T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-16T21:00:00.000Z",
+		"created_at": "2018-05-16T13:00:00.000Z"
+	}, {
+		"id": "653fc7b1-c977-4b52-b733-b9df48ef21b1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-17T13:00:00.000Z",
+		"clock_out": "2018-05-17T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-17T21:00:00.000Z",
+		"created_at": "2018-05-17T13:00:00.000Z"
+	}, {
+		"id": "c0386f80-d8b3-4145-a600-e6a31bd43b13",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-18T13:00:00.000Z",
+		"clock_out": "2018-05-18T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-18T21:00:00.000Z",
+		"created_at": "2018-05-18T13:00:00.000Z"
+	}, {
+		"id": "64a76e8a-286c-4287-85d4-5e2dec413335",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-19T13:00:00.000Z",
+		"clock_out": "2018-05-19T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-19T21:00:00.000Z",
+		"created_at": "2018-05-19T13:00:00.000Z"
+	}, {
+		"id": "14d9ff2f-c262-4cdc-b3f5-5344765fb653",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-20T13:00:00.000Z",
+		"clock_out": "2018-05-20T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-20T21:00:00.000Z",
+		"created_at": "2018-05-20T13:00:00.000Z"
+	}, {
+		"id": "6b74eb17-85d7-4270-b9fb-821819031145",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-21T13:00:00.000Z",
+		"clock_out": "2018-05-21T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-21T21:00:00.000Z",
+		"created_at": "2018-05-21T13:00:00.000Z"
+	}, {
+		"id": "dd83d5de-848a-4eb6-9bc4-92c44a4552ba",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-22T13:00:00.000Z",
+		"clock_out": "2018-05-22T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-22T21:00:00.000Z",
+		"created_at": "2018-05-22T13:00:00.000Z"
+	}, {
+		"id": "a44e8b20-e47a-4d5f-9729-cf9c2a2007d1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-23T13:00:00.000Z",
+		"clock_out": "2018-05-23T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-23T21:00:00.000Z",
+		"created_at": "2018-05-23T13:00:00.000Z"
+	}, {
+		"id": "786ffb17-2824-47dc-bfc9-bff84ed337c0",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-24T13:00:00.000Z",
+		"clock_out": "2018-05-24T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-24T21:00:00.000Z",
+		"created_at": "2018-05-24T13:00:00.000Z"
+	}, {
+		"id": "906f8d4c-a1a9-413f-bb7e-e2035bc7051e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-25T13:00:00.000Z",
+		"clock_out": "2018-05-25T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-25T21:00:00.000Z",
+		"created_at": "2018-05-25T13:00:00.000Z"
+	}, {
+		"id": "c64dbf0a-03c1-49d5-a3e6-a537f6b5dd84",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-26T13:00:00.000Z",
+		"clock_out": "2018-05-26T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-26T21:00:00.000Z",
+		"created_at": "2018-05-26T13:00:00.000Z"
+	}, {
+		"id": "c9e4a507-3167-4a38-9fa4-cefc9af8a0b1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-27T13:00:00.000Z",
+		"clock_out": "2018-05-27T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-27T21:00:00.000Z",
+		"created_at": "2018-05-27T13:00:00.000Z"
+	}, {
+		"id": "3ce067dd-42ba-454f-ab45-0df04df8cdc1",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"employee_id": "5558ab4a-d395-4728-85c4-3a930f251a6a",
+		"name": "Sasha Yii",
+		"clock_in": "2018-05-28T13:00:00.000Z",
+		"clock_out": "2018-05-28T21:00:00.000Z",
+		"pay_rate": 16,
+		"updated_at": "2018-05-28T21:00:00.000Z",
+		"created_at": "2018-05-28T13:00:00.000Z"
+	}
+]

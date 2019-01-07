@@ -1,0 +1,130 @@
+[{
+		"id": "a7c9f9f0-4936-4a4a-88d7-f9f76ebce1bd",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"name": "Smokin Ribs",
+		"cost": 12,
+		"price": 20,
+		"updated_at": "2018-07-27T16:46:19.847Z",
+		"created_at": "2018-07-27T16:46:19.847Z"
+	}, {
+		"id": "d1b1299c-54dc-4163-8ee1-04488f50c071",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"name": "Reds Brisket",
+		"cost": 10,
+		"price": 17,
+		"updated_at": "2018-07-27T16:47:17.646Z",
+		"created_at": "2018-07-27T16:47:17.646Z"
+	}, {
+		"id": "a54400cf-92cb-4647-8bda-8c24e666be11",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"name": "Mac & Cheese",
+		"cost": 5,
+		"price": 11,
+		"updated_at": "2018-07-27T16:47:50.474Z",
+		"created_at": "2018-07-27T16:47:50.474Z"
+	}, {
+		"id": "3d056f52-d812-41cd-ae58-bf6e154ab912",
+		"business_id": "b2aeb27b-c85c-4ad8-83d4-d9511063d418",
+		"name": "Hot Links Sandwich",
+		"cost": 4,
+		"price": 10,
+		"updated_at": "2018-07-27T16:49:46.829Z",
+		"created_at": "2018-07-27T16:49:46.829Z"
+	}, {
+		"id": "4933858e-f19b-493b-af9f-fff84acec273",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Avocodo Burger",
+		"cost": 6,
+		"price": 10,
+		"updated_at": "2018-07-27T16:51:34.347Z",
+		"created_at": "2018-07-27T16:51:34.347Z"
+	}, {
+		"id": "0504eaea-0db6-47b6-bd3b-2762ac6e8624",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Southwest Burger",
+		"cost": 6,
+		"price": 10,
+		"updated_at": "2018-07-27T16:51:51.594Z",
+		"created_at": "2018-07-27T16:51:51.594Z"
+	}, {
+		"id": "ed0c6d34-c398-49a3-b126-765298d9171f",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Chorizo Burger",
+		"cost": 6,
+		"price": 13,
+		"updated_at": "2018-07-27T16:52:13.289Z",
+		"created_at": "2018-07-27T16:52:13.289Z"
+	}, {
+		"id": "b7491ec9-003b-46a6-b1ba-dde6dcbb3176",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Seasoned Fries",
+		"cost": 2,
+		"price": 5,
+		"updated_at": "2018-07-27T16:53:05.079Z",
+		"created_at": "2018-07-27T16:53:05.079Z"
+	}, {
+		"id": "1bd3d723-5162-49ce-bcd7-29cb65fd323e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Hashbrowns",
+		"cost": 2,
+		"price": 5,
+		"updated_at": "2018-07-27T16:54:31.493Z",
+		"created_at": "2018-07-27T16:54:31.493Z"
+	}, {
+		"id": "047470bc-00c8-485b-b7c7-9f3ea5da92ed",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Biscuits & Gravy",
+		"cost": 2,
+		"price": 7,
+		"updated_at": "2018-07-27T16:54:56.833Z",
+		"created_at": "2018-07-27T16:54:56.833Z"
+	}, {
+		"id": "b6fa5a2e-d150-4ddf-b18d-f0f2c9d8217d",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Breafast Burrito",
+		"cost": 4,
+		"price": 11,
+		"updated_at": "2018-07-27T16:56:30.104Z",
+		"created_at": "2018-07-27T16:56:30.104Z"
+	}, {
+		"id": "e20f45a4-1a55-4346-9ac4-479edba96e76",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Avocado & Egg Toast",
+		"cost": 2,
+		"price": 6,
+		"updated_at": "2018-07-27T16:56:53.611Z",
+		"created_at": "2018-07-27T16:56:53.611Z"
+	}, {
+		"id": "3fdd5d30-7999-4788-85a5-7a29b8aa5506",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Bacon Potato & Egg Taco",
+		"cost": 1,
+		"price": 4,
+		"updated_at": "2018-07-27T16:57:22.630Z",
+		"created_at": "2018-07-27T16:57:22.630Z"
+	}, {
+		"id": "a3962fa8-de9f-4d33-8d14-785effed3e0e",
+		"business_id": "f21c2579-b95e-4a5b-aead-a3cf9d60d43b",
+		"name": "Egg White Cheese Omelet",
+		"cost": 3,
+		"price": 11,
+		"updated_at": "2018-07-27T16:57:54.146Z",
+		"created_at": "2018-07-27T16:57:54.146Z"
+	}, {
+		"id": "339ffd27-52d9-4a8d-ad2a-0dc16fc03b6b",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Barbecue Bacon Cheese Burger",
+		"cost": 6,
+		"price": 11,
+		"updated_at": "2018-07-27T16:59:00.088Z",
+		"created_at": "2018-07-27T16:59:00.088Z"
+	}, {
+		"id": "a8ebb1c5-b66d-49d7-a336-3f8b704d6d21",
+		"business_id": "e0b6683d-5efc-4b7a-836d-f3a3fe16ebae",
+		"name": "Leaning Tower of Pizza Burger",
+		"cost": 6,
+		"price": 14,
+		"updated_at": "2018-07-27T16:59:20.599Z",
+		"created_at": "2018-07-27T16:59:20.599Z"
+	}
+]
