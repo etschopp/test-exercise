@@ -8,5 +8,5 @@
 
    mvn test
    
-4) The API is accessible from http://localhist:8080/reporting
+4) The API is accessible from http://localhost:8080/reporting
 
